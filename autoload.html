@@ -15,7 +15,7 @@
 
  document.getElementById("contents").innerHTML = "STARTING UP";
 
-    $.get("https://github.com/lrrong2020/Smart-Campus/blob/main/double_camera.csv", function(response, status){  
+    $.get("double_camera.csv", function(response, status){  
  alert("Status: " + status);
  if(status=="success"){
     var data = $.csv.toArrays(response); 
