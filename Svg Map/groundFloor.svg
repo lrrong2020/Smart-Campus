@@ -1,134 +1,134 @@
-<svg width="1190.551" height="841.89" xmlns="http://www.w3.org/2000/svg">
+<svg width="732.551" height="567.89" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>background</title>
-  <rect fill="none" id="canvas_background" height="843.89" width="1192.551" y="-1" x="-1"/>
+  <rect x="-1" y="-1" width="734.551" height="569.89" id="canvas_background" fill="none"/>
  </g>
 
  <g>
   <title>Layer 1</title>
-  <polygon id="svg_1" points="308.28,134.399 308.28,150.96 266.578,150.96 266.579,331.625 712.08,331.625 712.08,498.719   263.88,498.719 263.88,679.861 694.2,679.862 694.2,662.88 754.2,662.88 754.2,681 822.6,681 822.6,626.28 864.36,626.28   864.36,568.44 943.32,533.76 946.08,532.32 948.479,530.52 950.64,528.48 952.439,526.081 954,523.44 955.08,520.56 955.68,517.68   955.92,514.56 955.8,511.56 954.479,506.28 952.08,496.56 990,487.56 911.52,172.32 863.52,172.32 863.52,148.44 755.521,148.439   755.521,134.4 627,134.4 627.001,149.04 582.6,149.04 582.66,134.4 " fill="#A7A9AB"/>
-  <polygon id="svg_2" points="393.052,150.959 266.578,150.96 266.578,228.96 377.4,228.959 377.399,223.92 393.052,223.92 " fill="#626366"/>
-  <polygon id="svg_3" points="393.052,230.159 393.052,164.199 476.16,164.16 476.16,230.159 " fill="#FFFFFF"/>
-  <polygon id="svg_4" points="627.001,149.04 582.6,149.04 582.66,134.4 520.679,134.4 520.679,149.16 497.28,149.16   497.155,228.96 626.875,228.96 " fill="#626366"/>
-  <polyline id="svg_5" points="649.56,229.08 649.56,149.16 692.88,149.16 692.88,134.4 755.521,134.4 755.521,148.439   863.52,148.44 863.52,228.96 " fill="#626366"/>
-  <rect id="svg_6" height="16.386" width="43.199" fill="#62ABF4" y="242.814" x="818.4"/>
-  <rect id="svg_7" height="11.003" width="43.319" fill="#626366" y="230.377" x="818.4"/>
-  <rect id="svg_8" height="17.34" width="43.319" fill="#62ABF4" y="272.88" x="818.4"/>
-  <rect id="svg_9" height="19.8" width="35.521" fill="#62ABF4" y="245.64" x="721.68"/>
-  <rect id="svg_10" height="21.12" width="1.68" y="268.08" x="732.24"/>
-  <rect id="svg_11" height="21.12" width="1.68" y="268.08" x="728.839"/>
-  <rect id="svg_12" height="21.12" width="1.68" y="268.08" x="725.438"/>
-  <rect id="svg_13" height="21.12" width="1.68" y="268.08" x="722.036"/>
-  <rect id="svg_14" height="21.12" width="1.68" y="268.08" x="735.642"/>
-  <rect id="svg_15" height="21.12" width="1.68" y="268.08" x="739.043"/>
-  <rect id="svg_16" height="21.12" width="1.68" y="268.08" x="742.444"/>
-  <rect id="svg_17" height="21.12" width="1.68" y="268.08" x="745.846"/>
-  <rect id="svg_18" height="21.12" width="1.68" y="268.08" x="749.247"/>
-  <rect id="svg_19" height="21.12" width="1.68" y="268.08" x="752.648"/>
-  <rect id="svg_20" height="21.12" width="1.68" y="268.08" x="756.05"/>
-  <polygon id="svg_21" points="971.6710205078125,412.9360046386719 911.52001953125,171.32000732421875 865.218994140625,171.32000732421875 865.218994140625,289.1600036621094 875.280029296875,289.2799987792969 875.2789916992188,355.8900146484375 865,355.8900146484375 865,413 931.9199829101562,413 934.2000122070312,422.239990234375 " fill="#626366"/>
-  <rect id="svg_22" height="44.04" width="18.96" fill="#626366" y="266.88" x="650.64"/>
-  <rect id="svg_23" height="44.04" width="19.439" fill="#626366" y="266.88" x="671.939"/>
-  <polygon id="svg_24" points="718.8,266.891 710.501,267 693.72,267 693.72,310.92 712.8,310.92 712.8,291 718.8,291 " fill="#626366"/>
-  <rect id="svg_25" height="18.109" width="18.797" fill="#626366" y="292.691" x="714.523"/>
-  <polygon id="svg_26" points="631.68,256.68 631.68,252.96 577.32,252.96 577.32,256.68 563.695,256.68 563.695,291.9   560.335,291.9 560.335,256.68 547.08,256.68 547.08,252.96 492.24,252.96 492.24,256.68 476.52,256.68 476.52,310.92 645.84,310.92   645.84,256.68 " fill="#626366"/>
-  <rect id="svg_27" height="16.62" width="35.521" fill="#62ABF4" y="271.26" x="393.24"/>
-  <rect id="svg_28" height="19.185" width="35.521" fill="#62ABF4" y="290.534" x="393.24"/>
-  <rect id="svg_29" height="21.12" width="1.68" y="248.04" x="409.148"/>
-  <rect id="svg_30" height="21.12" width="1.68" y="248.04" x="405.747"/>
-  <rect id="svg_31" height="21.12" width="1.68" y="248.04" x="402.346"/>
-  <rect id="svg_32" height="21.12" width="1.68" y="248.04" x="398.944"/>
-  <rect id="svg_33" height="21.12" width="1.68" y="248.04" x="412.55"/>
-  <rect id="svg_34" height="21.12" width="1.68" y="248.04" x="415.951"/>
-  <rect id="svg_35" height="21.12" width="1.68" y="248.04" x="419.353"/>
-  <rect id="svg_36" height="21.12" width="1.68" y="248.04" x="422.754"/>
-  <rect id="svg_37" height="21.12" width="1.68" y="248.04" x="426.155"/>
-  <rect id="svg_38" height="21.12" width="1.68" y="248.04" x="429.557"/>
-  <rect id="svg_39" height="12.12" width="12.12" fill="#62ABF4" y="297.36" x="429.72"/>
-  <rect id="svg_40" height="12.12" width="12.12" fill="#62ABF4" y="297.36" x="442.56"/>
-  <polygon id="svg_41" points="376.8,257.16 376.8,252.96 328.92,252.96 328.92,331.2 388.5,331.2 388.5,257.16 " fill="#626366"/>
-  <polygon id="svg_42" points="314.441,257.16 314.441,252.96 266.562,252.96 266.562,331.2 326.142,331.2 326.142,257.16 " fill="#626366"/>
-  <polygon id="svg_43" points="803.641,306.12 803.641,292.124 777.72,292.124 777.72,331.56 734.939,331.56 734.939,414   861.72,414 861.72,306.12 " fill="#626366"/>
-  <rect id="svg_44" height="18.12" width="129.48" fill="#626366" y="416.52" x="734.52"/>
-  <rect id="svg_45" height="19.08" width="18.239" fill="#626366" y="416.16" x="865.98"/>
-  <polygon id="svg_46" points="939.345,453.121 886.2,453.121 886.2,415.68 930.273,415.68 " fill="#626366"/>
-  <path id="svg_47" d="m952.08,496.56" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.48" stroke="#000000" fill="none"/>
-  <polygon id="svg_48" points="886.2,540.121 886.2,520.8 928.68,520.8 928.68,498.694 952.606,498.693 954.479,506.28   955.8,511.56 955.92,514.56 955.68,517.68 955.08,520.56 954,523.44 952.439,526.081 950.64,528.48 948.479,530.52 946.08,532.32   943.32,533.76 928.84,540.121 " fill="#626366"/>
-  <polygon id="svg_49" points="945.479,476.566 928.68,476.566 928.68,496.966 950.4,496.966 " fill="#626366"/>
-  <polygon id="svg_50" points="945,474.84 928.68,474.84 928.68,468.121 943.32,468.121 " fill="#626366"/>
-  <rect id="svg_51" height="51" width="40.8" fill="#626366" y="468.121" x="886.2"/>
-  <rect id="svg_52" height="59.279" width="85.8" fill="#626366" y="436.92" x="777.72"/>
-  <rect id="svg_53" height="19.02" width="40.32" fill="#626366" y="436.92" x="734.76"/>
-  <rect id="svg_54" height="18.12" width="33.12" fill="#626366" y="458.73" x="734.52"/>
-  <polygon id="svg_55" points="774.84,479.64 734.88,479.64 734.88,495.72 737.641,495.72 737.641,498.96 761.28,498.96   761.28,495.72 774.84,495.72 " fill="#626366"/>
-  <rect id="svg_56" height="121.681" width="97.08" fill="#626366" y="501.24" x="763.92"/>
-  <polygon id="svg_57" points="762.24,639.72 762.24,663.6 757.439,663.6 757.439,680.76 818.88,680.76 818.88,639.72 " fill="#626366"/>
-  <polygon id="svg_58" points="735.84,539.76 713.52,539.76 713.52,498.96 731.4,498.96 731.4,502.319 735.84,502.32 " fill="#626366"/>
-  <rect id="svg_59" height="31.079" width="18.992" fill="#626366" y="498.719" x="692.783"/>
-  <rect id="svg_60" height="30.96" width="19.842" fill="#626366" y="498.719" x="671.196"/>
-  <rect id="svg_61" height="40.2" width="19.842" fill="#626366" y="498.719" x="649.609"/>
-  <polygon id="svg_62" points="607.561,498.719 607.561,572.64 618.12,572.64 618.12,576 647.864,576 647.864,498.719 " fill="#79afc5"/>
-  <rect id="svg_63" height="16.92" width="35.521" fill="#62ABF4" y="565.603" x="650.699"/>
-  <rect id="svg_64" height="16.92" width="35.521" fill="#62ABF4" y="565.44" x="406.2"/>
-  <rect id="svg_65" height="21.121" width="1.68" y="541.679" x="660.817"/>
-  <rect id="svg_66" height="21.121" width="1.68" y="541.679" x="657.416"/>
-  <rect id="svg_67" height="21.121" width="1.68" y="541.679" x="654.015"/>
-  <rect id="svg_68" height="21.121" width="1.68" y="541.679" x="650.613"/>
-  <rect id="svg_69" height="21.121" width="1.68" y="541.679" x="664.219"/>
-  <rect id="svg_70" height="21.121" width="1.68" y="541.679" x="667.62"/>
-  <rect id="svg_71" height="21.121" width="1.68" y="541.679" x="671.021"/>
-  <rect id="svg_72" height="21.121" width="1.68" y="541.679" x="674.423"/>
-  <rect id="svg_73" height="21.121" width="1.68" y="541.679" x="677.824"/>
-  <rect id="svg_74" height="21.121" width="1.68" y="541.679" x="681.226"/>
-  <rect id="svg_75" height="21.121" width="1.68" y="541.679" x="684.627"/>
-  <polygon id="svg_76" points="618.613,603.883 618.613,607.861 607.094,607.861 607.094,679.861 669.734,679.861 669.734,603.883   " fill="#f94144"/>
-  <rect id="svg_77" height="15.72" width="19.32" fill="#626366" y="664.141" x="672.221"/>
-  <polygon id="svg_78" points="593.173,608.101 593.173,601.141 575.134,601.141 575.134,604.021 531.974,604.021 531.974,608.101   520.574,608.101 520.574,679.861 603.375,679.861 603.375,608.101 " fill="#f9844a"/>
-  <polygon id="svg_79" points="508.33,608.101 508.33,604.021 489.01,604.021 489.01,608.101 478.09,608.101 478.09,679.861   518.771,679.861 518.771,608.101 " fill="#626366"/>
-  <polygon id="svg_80" points="465.85,608.101 465.85,604.021 446.529,604.021 446.529,608.101 435.609,608.101 435.609,679.861   476.29,679.861 476.29,608.101 " fill="#626366"/>
-  <polygon id="svg_81" points="423.369,608.101 423.369,604.021 404.048,604.021 404.048,608.101 393.128,608.101 393.128,679.861   433.809,679.861 433.809,608.101 " fill="#f9c74f"/>
-  <polygon id="svg_82" points="380.887,608.101 380.887,604.021 361.567,604.021 361.567,608.101 350.647,608.101 350.647,679.861   391.327,679.861 391.327,608.101 " fill="#90be6d"/>
-  <polygon id="svg_83" points="338.396,619.441 338.396,615.361 319.075,615.361 319.075,619.441 308.155,619.441 308.155,679.861   348.836,679.861 348.836,619.441 " fill="#626366"/>
-  <polygon id="svg_84" points="295.912,619.441 295.912,615.361 276.592,615.361 276.592,619.441 263.88,619.441 263.88,679.861   306.352,679.861 306.352,619.441 " fill="#626366"/>
-  <rect id="svg_85" height="21.121" width="1.68" y="541.799" x="415.804"/>
-  <rect id="svg_86" height="21.121" width="1.68" y="541.799" x="412.403"/>
-  <rect id="svg_87" height="21.121" width="1.68" y="541.799" x="409.001"/>
-  <rect id="svg_88" height="21.121" width="1.68" y="541.799" x="405.6"/>
-  <rect id="svg_89" height="21.121" width="1.68" y="541.799" x="419.206"/>
-  <rect id="svg_90" height="21.121" width="1.68" y="541.799" x="422.607"/>
-  <rect id="svg_91" height="21.121" width="1.68" y="541.799" x="426.008"/>
-  <rect id="svg_92" height="21.121" width="1.68" y="541.799" x="429.41"/>
-  <rect id="svg_93" height="21.121" width="1.68" y="541.799" x="432.811"/>
-  <rect id="svg_94" height="21.121" width="1.68" y="541.799" x="436.212"/>
-  <rect id="svg_95" height="21.121" width="1.68" y="541.799" x="439.614"/>
-  <rect id="svg_96" height="39.601" width="20.1" fill="#62ABF4" y="501.24" x="476.4"/>
-  <rect id="svg_97" height="39.721" width="19.375" fill="#62ABF4" y="501.24" x="499.08"/>
-  <polygon id="svg_98" points="603.96,498.719 520.98,498.719 520.98,572.88 531.84,572.88 531.84,576.48 594.48,576.48   594.48,572.88 603.96,572.88 " fill="#626366"/>
-  <rect id="svg_99" height="40.681" width="44.16" fill="#626366" y="498.719" x="412.44"/>
-  <polygon id="svg_100" points="350.52,498.719 350.52,567.42 361.08,567.42 361.08,571.68 391.245,571.68 391.245,498.719 " fill="#306d88"/>
-  <polygon id="svg_101" points="263.88,498.719 263.88,563.16 277.68,563.16 277.68,571.68 337.32,571.68 337.32,567.121   347.76,567.121 347.76,498.719 " fill="#43aa8b"/>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_102" y="626.4" x="620.275501" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">C2.1</text>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_103" y="626.4" x="544.275501" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">L2.2</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_104" y="626.4" x="482.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">C2.3</text>
-  <text stroke="null" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_105" y="626.4" x="440.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">C2.4</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_106" y="626.4" x="398.275501" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">C2.5</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_107" y="626.4" x="354.275501" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">C2.6</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_108" y="636.4" x="311.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">C2.7</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_109" y="636.4" x="268.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">C2.8</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_110" y="515.4" x="288.275501" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">C2.9</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_111" y="515.4" x="351.275501" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">C2.10</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_112" y="515.4" x="542.275501" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">C2.12</text>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_113" y="516.4" x="607.275501" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">C2.13</text>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_114" y="515.4" x="414.275501" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">C2.11</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_115" y="516.4" x="792.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">C3.4</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="10" id="svg_116" y="653.4" x="764.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">STUDENT</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="10" id="svg_117" y="664.4" x="764.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">S' SPACE</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_119" y="377.4" x="883.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Lab</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_120" y="359.4" x="761.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">LIBRARY</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_122" y="275.4" x="270.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Lab2.17</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_123" y="194.4" x="308.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Lab</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_125" y="275.4" x="329.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Lab2.16</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_126" y="275.4" x="573.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Lab2.14</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_127" y="275.4" x="490.275501" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Lab2.15</text>
+  <polygon fill="#A7A9AB" points="47.279998779296875,19.399002075195312 47.279998779296875,35.96000671386719 5.5780029296875,35.96000671386719 5.579010009765625,216.625 451.08001708984375,216.625 451.08001708984375,383.718994140625 2.8800048828125,383.718994140625 2.8800048828125,564.8610229492188 433.20001220703125,564.8619995117188 433.20001220703125,547.8800048828125 493.20001220703125,547.8800048828125 493.20001220703125,566 561.5999755859375,566 561.5999755859375,511.280029296875 603.3599853515625,511.280029296875 603.3599853515625,453.44000244140625 682.3200073242188,418.760009765625 685.0800170898438,417.32000732421875 687.47900390625,415.52001953125 689.6400146484375,413.47998046875 691.4390258789062,411.08099365234375 693,408.44000244140625 694.0800170898438,405.55999755859375 694.6799926757812,402.67999267578125 694.9199829101562,399.55999755859375 694.7999877929688,396.55999755859375 693.47900390625,391.2799987792969 691.0800170898438,381.55999755859375 729,372.55999755859375 650.52001953125,57.32000732421875 602.52001953125,57.32000732421875 602.52001953125,33.44000244140625 494.52099609375,33.438995361328125 494.52099609375,19.399993896484375 366,19.399993896484375 366.0009765625,34.03999328613281 321.5999755859375,34.03999328613281 321.65997314453125,19.399993896484375 " id="svg_1"/>
+  <polygon fill="#626366" points="132.052001953125,35.95899963378906 5.5780029296875,35.96000671386719 5.5780029296875,113.96000671386719 116.39999389648438,113.95899963378906 116.39898681640625,108.91999816894531 132.052001953125,108.91999816894531 " id="svg_2"/>
+  <polygon fill="#FFFFFF" points="132.052001953125,115.15899658203125 132.052001953125,49.199005126953125 215.16000366210938,49.160003662109375 215.16000366210938,115.15899658203125 " id="svg_3"/>
+  <polygon fill="#626366" points="366.0009765625,34.03999328613281 321.5999755859375,34.03999328613281 321.65997314453125,19.399993896484375 259.67901611328125,19.399993896484375 259.67901611328125,34.160003662109375 236.27999877929688,34.160003662109375 236.15499877929688,113.96000671386719 365.875,113.96000671386719 " id="svg_4"/>
+  <polyline fill="#626366" points="388.55999755859375,114.08000183105469 388.55999755859375,34.160003662109375 431.8800048828125,34.160003662109375 431.8800048828125,19.399993896484375 494.52099609375,19.399993896484375 494.52099609375,33.438995361328125 602.52001953125,33.44000244140625 602.52001953125,113.96000671386719 " id="svg_5"/>
+  <rect x="557.4" y="127.814" fill="#62ABF4" width="43.199" height="16.386" id="svg_6"/>
+  <rect x="557.4" y="115.377" fill="#626366" width="43.319" height="11.003" id="svg_7"/>
+  <rect x="557.4" y="157.88" fill="#62ABF4" width="43.319" height="17.34" id="svg_8"/>
+  <rect x="460.68" y="130.64" fill="#62ABF4" width="35.521" height="19.8" id="svg_9"/>
+  <rect x="471.24" y="153.08" width="1.68" height="21.12" id="svg_10"/>
+  <rect x="467.839" y="153.08" width="1.68" height="21.12" id="svg_11"/>
+  <rect x="464.438" y="153.08" width="1.68" height="21.12" id="svg_12"/>
+  <rect x="461.036" y="153.08" width="1.68" height="21.12" id="svg_13"/>
+  <rect x="474.642" y="153.08" width="1.68" height="21.12" id="svg_14"/>
+  <rect x="478.043" y="153.08" width="1.68" height="21.12" id="svg_15"/>
+  <rect x="481.444" y="153.08" width="1.68" height="21.12" id="svg_16"/>
+  <rect x="484.846" y="153.08" width="1.68" height="21.12" id="svg_17"/>
+  <rect x="488.247" y="153.08" width="1.68" height="21.12" id="svg_18"/>
+  <rect x="491.648" y="153.08" width="1.68" height="21.12" id="svg_19"/>
+  <rect x="495.05" y="153.08" width="1.68" height="21.12" id="svg_20"/>
+  <polygon fill="#626366" points="710.6710205078125,297.9360046386719 650.52001953125,56.32000732421875 604.218994140625,56.32000732421875 604.218994140625,174.16000366210938 614.280029296875,174.27999877929688 614.2789916992188,240.8900146484375 604,240.8900146484375 604,298 670.9199829101562,298 673.2000122070312,307.239990234375 " id="svg_21"/>
+  <rect x="389.64" y="151.88" fill="#626366" width="18.96" height="44.04" id="svg_22"/>
+  <rect x="410.939" y="151.88" fill="#626366" width="19.439" height="44.04" id="svg_23"/>
+  <polygon fill="#626366" points="457.79998779296875,151.8909912109375 449.5009765625,152 432.719970703125,152 432.719970703125,195.92001342773438 451.79998779296875,195.92001342773438 451.79998779296875,176 457.79998779296875,176 " id="svg_24"/>
+  <rect x="453.523" y="177.691" fill="#626366" width="18.797" height="18.109" id="svg_25"/>
+  <polygon fill="#626366" points="370.67999267578125,141.67999267578125 370.67999267578125,137.9600067138672 316.32000732421875,137.9600067138672 316.32000732421875,141.67999267578125 302.69500732421875,141.67999267578125 302.69500732421875,176.89999389648438 299.33502197265625,176.89999389648438 299.33502197265625,141.67999267578125 286.08001708984375,141.67999267578125 286.08001708984375,137.9600067138672 231.239990234375,137.9600067138672 231.239990234375,141.67999267578125 215.51998901367188,141.67999267578125 215.51998901367188,195.92001342773438 384.84002685546875,195.92001342773438 384.84002685546875,141.67999267578125 " id="svg_26"/>
+  <rect x="132.24" y="156.26" fill="#62ABF4" width="35.521" height="16.62" id="svg_27"/>
+  <rect x="132.24" y="175.534" fill="#62ABF4" width="35.521" height="19.185" id="svg_28"/>
+  <rect x="148.148" y="133.04" width="1.68" height="21.12" id="svg_29"/>
+  <rect x="144.747" y="133.04" width="1.68" height="21.12" id="svg_30"/>
+  <rect x="141.346" y="133.04" width="1.68" height="21.12" id="svg_31"/>
+  <rect x="137.944" y="133.04" width="1.68" height="21.12" id="svg_32"/>
+  <rect x="151.55" y="133.04" width="1.68" height="21.12" id="svg_33"/>
+  <rect x="154.951" y="133.04" width="1.68" height="21.12" id="svg_34"/>
+  <rect x="158.353" y="133.04" width="1.68" height="21.12" id="svg_35"/>
+  <rect x="161.754" y="133.04" width="1.68" height="21.12" id="svg_36"/>
+  <rect x="165.155" y="133.04" width="1.68" height="21.12" id="svg_37"/>
+  <rect x="168.557" y="133.04" width="1.68" height="21.12" id="svg_38"/>
+  <rect x="168.72" y="182.36" fill="#62ABF4" width="12.12" height="12.12" id="svg_39"/>
+  <rect x="181.56" y="182.36" fill="#62ABF4" width="12.12" height="12.12" id="svg_40"/>
+  <polygon fill="#626366" points="115.79998779296875,142.16000366210938 115.79998779296875,137.9600067138672 67.92001342773438,137.9600067138672 67.92001342773438,216.20001220703125 127.5,216.20001220703125 127.5,142.16000366210938 " id="svg_41"/>
+  <polygon fill="#626366" points="53.441009521484375,142.16000366210938 53.441009521484375,137.9600067138672 5.56201171875,137.9600067138672 5.56201171875,216.20001220703125 65.14199829101562,216.20001220703125 65.14199829101562,142.16000366210938 " id="svg_42"/>
+  <polygon fill="#626366" points="542.6409912109375,191.1199951171875 542.6409912109375,177.12399291992188 516.719970703125,177.12399291992188 516.719970703125,216.55999755859375 473.93902587890625,216.55999755859375 473.93902587890625,299 600.719970703125,299 600.719970703125,191.1199951171875 " id="svg_43"/>
+  <rect x="473.52" y="301.52" fill="#626366" width="129.48" height="18.12" id="svg_44"/>
+  <rect x="604.98" y="301.16" fill="#626366" width="18.239" height="19.08" id="svg_45"/>
+  <polygon fill="#626366" points="678.344970703125,338.1210021972656 625.2000122070312,338.1210021972656 625.2000122070312,300.67999267578125 669.2730102539062,300.67999267578125 " id="svg_46"/>
+  <path fill="none" stroke="#000000" stroke-width="0.48" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m691.08,381.56" id="svg_47"/>
+  <polygon fill="#626366" points="625.2000122070312,425.1209716796875 625.2000122070312,405.79998779296875 667.6799926757812,405.79998779296875 667.6799926757812,383.6940002441406 691.6060180664062,383.6929931640625 693.47900390625,391.2799987792969 694.7999877929688,396.55999755859375 694.9199829101562,399.55999755859375 694.6799926757812,402.67999267578125 694.0800170898438,405.55999755859375 693,408.44000244140625 691.4390258789062,411.08099365234375 689.6400146484375,413.47998046875 687.47900390625,415.52001953125 685.0800170898438,417.32000732421875 682.3200073242188,418.760009765625 667.8400268554688,425.1209716796875 " id="svg_48"/>
+  <polygon fill="#626366" points="684.47900390625,361.5660095214844 667.6799926757812,361.5660095214844 667.6799926757812,381.96600341796875 689.4000244140625,381.96600341796875 " id="svg_49"/>
+  <polygon fill="#626366" points="684,359.8399963378906 667.6799926757812,359.8399963378906 667.6799926757812,353.1210021972656 682.3200073242188,353.1210021972656 " id="svg_50"/>
+  <rect x="625.2" y="353.121" fill="#626366" width="40.8" height="51" id="svg_51"/>
+  <rect x="516.72" y="321.92" fill="#626366" width="85.8" height="59.279" id="svg_52"/>
+  <rect x="473.76" y="321.92" fill="#626366" width="40.32" height="19.02" id="svg_53"/>
+  <rect x="473.52" y="343.73" fill="#626366" width="33.12" height="18.12" id="svg_54"/>
+  <polygon fill="#626366" points="513.8400268554688,364.6400146484375 473.8800048828125,364.6400146484375 473.8800048828125,380.7200012207031 476.6409912109375,380.7200012207031 476.6409912109375,383.9599914550781 500.280029296875,383.9599914550781 500.280029296875,380.7200012207031 513.8400268554688,380.7200012207031 " id="svg_55"/>
+  <rect x="502.92" y="386.24" fill="#626366" width="97.08" height="121.681" id="svg_56"/>
+  <polygon fill="#626366" points="501.239990234375,524.719970703125 501.239990234375,548.5999755859375 496.43902587890625,548.5999755859375 496.43902587890625,565.760009765625 557.8800048828125,565.760009765625 557.8800048828125,524.719970703125 " id="svg_57"/>
+  <polygon fill="#626366" points="474.84002685546875,424.760009765625 452.52001953125,424.760009765625 452.52001953125,383.9599914550781 470.4000244140625,383.9599914550781 470.4000244140625,387.3190002441406 474.84002685546875,387.32000732421875 " id="svg_58"/>
+  <rect x="431.783" y="383.719" fill="#626366" width="18.992" height="31.079" id="svg_59"/>
+  <rect x="410.196" y="383.719" fill="#626366" width="19.842" height="30.96" id="svg_60"/>
+  <rect x="388.609" y="383.719" fill="#626366" width="19.842" height="40.2" id="svg_61"/>
+  <polygon fill="#79afc5" points="346.56097412109375,383.718994140625 346.56097412109375,457.6400146484375 357.1199951171875,457.6400146484375 357.1199951171875,461 386.864013671875,461 386.864013671875,383.718994140625 " id="svg_62"/>
+  <rect x="389.699" y="450.603" fill="#62ABF4" width="35.521" height="16.92" id="svg_63"/>
+  <rect x="145.2" y="450.44" fill="#62ABF4" width="35.521" height="16.92" id="svg_64"/>
+  <rect x="399.817" y="426.679" width="1.68" height="21.121" id="svg_65"/>
+  <rect x="396.416" y="426.679" width="1.68" height="21.121" id="svg_66"/>
+  <rect x="393.015" y="426.679" width="1.68" height="21.121" id="svg_67"/>
+  <rect x="389.613" y="426.679" width="1.68" height="21.121" id="svg_68"/>
+  <rect x="403.219" y="426.679" width="1.68" height="21.121" id="svg_69"/>
+  <rect x="406.62" y="426.679" width="1.68" height="21.121" id="svg_70"/>
+  <rect x="410.021" y="426.679" width="1.68" height="21.121" id="svg_71"/>
+  <rect x="413.423" y="426.679" width="1.68" height="21.121" id="svg_72"/>
+  <rect x="416.824" y="426.679" width="1.68" height="21.121" id="svg_73"/>
+  <rect x="420.226" y="426.679" width="1.68" height="21.121" id="svg_74"/>
+  <rect x="423.627" y="426.679" width="1.68" height="21.121" id="svg_75"/>
+  <polygon fill="#f94144" points="357.61297607421875,488.88299560546875 357.61297607421875,492.86102294921875 346.093994140625,492.86102294921875 346.093994140625,564.8610229492188 408.7340087890625,564.8610229492188 408.7340087890625,488.88299560546875 " id="svg_76"/>
+  <rect x="411.221" y="549.141" fill="#626366" width="19.32" height="15.72" id="svg_77"/>
+  <polygon fill="#f9844a" points="332.1729736328125,493.10101318359375 332.1729736328125,486.1409912109375 314.13397216796875,486.1409912109375 314.13397216796875,489.02099609375 270.9739990234375,489.02099609375 270.9739990234375,493.10101318359375 259.573974609375,493.10101318359375 259.573974609375,564.8610229492188 342.375,564.8610229492188 342.375,493.10101318359375 " id="svg_78"/>
+  <polygon fill="#626366" points="247.32998657226562,493.10101318359375 247.32998657226562,489.02099609375 228.010009765625,489.02099609375 228.010009765625,493.10101318359375 217.08999633789062,493.10101318359375 217.08999633789062,564.8610229492188 257.77099609375,564.8610229492188 257.77099609375,493.10101318359375 " id="svg_79"/>
+  <polygon fill="#626366" points="204.85000610351562,493.10101318359375 204.85000610351562,489.02099609375 185.52899169921875,489.02099609375 185.52899169921875,493.10101318359375 174.6090087890625,493.10101318359375 174.6090087890625,564.8610229492188 215.29000854492188,564.8610229492188 215.29000854492188,493.10101318359375 " id="svg_80"/>
+  <polygon fill="#f9c74f" points="162.36898803710938,493.10101318359375 162.36898803710938,489.02099609375 143.04800415039062,489.02099609375 143.04800415039062,493.10101318359375 132.12799072265625,493.10101318359375 132.12799072265625,564.8610229492188 172.80899047851562,564.8610229492188 172.80899047851562,493.10101318359375 " id="svg_81"/>
+  <polygon fill="#90be6d" points="119.88699340820312,493.10101318359375 119.88699340820312,489.02099609375 100.56698608398438,489.02099609375 100.56698608398438,493.10101318359375 89.64700317382812,493.10101318359375 89.64700317382812,564.8610229492188 130.32699584960938,564.8610229492188 130.32699584960938,493.10101318359375 " id="svg_82"/>
+  <polygon fill="#626366" points="77.39599609375,504.44097900390625 77.39599609375,500.36102294921875 58.07501220703125,500.36102294921875 58.07501220703125,504.44097900390625 47.154998779296875,504.44097900390625 47.154998779296875,564.8610229492188 87.83599853515625,564.8610229492188 87.83599853515625,504.44097900390625 " id="svg_83"/>
+  <polygon fill="#626366" points="34.9119873046875,504.44097900390625 34.9119873046875,500.36102294921875 15.592010498046875,500.36102294921875 15.592010498046875,504.44097900390625 2.8800048828125,504.44097900390625 2.8800048828125,564.8610229492188 45.35198974609375,564.8610229492188 45.35198974609375,504.44097900390625 " id="svg_84"/>
+  <rect x="154.804" y="426.799" width="1.68" height="21.121" id="svg_85"/>
+  <rect x="151.403" y="426.799" width="1.68" height="21.121" id="svg_86"/>
+  <rect x="148.001" y="426.799" width="1.68" height="21.121" id="svg_87"/>
+  <rect x="144.6" y="426.799" width="1.68" height="21.121" id="svg_88"/>
+  <rect x="158.206" y="426.799" width="1.68" height="21.121" id="svg_89"/>
+  <rect x="161.607" y="426.799" width="1.68" height="21.121" id="svg_90"/>
+  <rect x="165.008" y="426.799" width="1.68" height="21.121" id="svg_91"/>
+  <rect x="168.41" y="426.799" width="1.68" height="21.121" id="svg_92"/>
+  <rect x="171.811" y="426.799" width="1.68" height="21.121" id="svg_93"/>
+  <rect x="175.212" y="426.799" width="1.68" height="21.121" id="svg_94"/>
+  <rect x="178.614" y="426.799" width="1.68" height="21.121" id="svg_95"/>
+  <rect x="215.4" y="386.24" fill="#62ABF4" width="20.1" height="39.601" id="svg_96"/>
+  <rect x="238.08" y="386.24" fill="#62ABF4" width="19.375" height="39.721" id="svg_97"/>
+  <polygon fill="#626366" points="342.96002197265625,383.718994140625 259.97998046875,383.718994140625 259.97998046875,457.8800048828125 270.84002685546875,457.8800048828125 270.84002685546875,461.47998046875 333.47998046875,461.47998046875 333.47998046875,457.8800048828125 342.96002197265625,457.8800048828125 " id="svg_98"/>
+  <rect x="151.44" y="383.719" fill="#626366" width="44.16" height="40.681" id="svg_99"/>
+  <polygon fill="#306d88" points="89.51998901367188,383.718994140625 89.51998901367188,452.41998291015625 100.07998657226562,452.41998291015625 100.07998657226562,456.67999267578125 130.2449951171875,456.67999267578125 130.2449951171875,383.718994140625 " id="svg_100"/>
+  <polygon fill="#43aa8b" points="2.8800048828125,383.718994140625 2.8800048828125,448.15997314453125 16.67999267578125,448.15997314453125 16.67999267578125,456.67999267578125 76.32000732421875,456.67999267578125 76.32000732421875,452.1209716796875 86.760009765625,452.1209716796875 86.760009765625,383.718994140625 " id="svg_101"/>
+  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="359.275501" y="511.4" id="svg_102" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C2.1</text>
+  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="283.275501" y="511.4" id="svg_103" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">L2.2</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="221.275501" y="511.4" id="svg_104" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C2.3</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="179.275501" y="511.4" id="svg_105" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="null">C2.4</text>
+  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="137.275501" y="511.4" id="svg_106" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C2.5</text>
+  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="93.275501" y="511.4" id="svg_107" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C2.6</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="50.275501" y="521.4" id="svg_108" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C2.7</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="7.275501" y="521.4" id="svg_109" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C2.8</text>
+  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="27.275501" y="400.4" id="svg_110" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C2.9</text>
+  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="90.275501" y="400.4" id="svg_111" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C2.10</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" x="281.275501" y="400.4" id="svg_112" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C2.12</text>
+  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="346.275501" y="401.4" id="svg_113" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C2.13</text>
+  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="153.275501" y="400.4" id="svg_114" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C2.11</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="531.275501" y="401.4" id="svg_115" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C3.4</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="503.275501" y="538.4" id="svg_116" font-size="10" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">STUDENT</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="503.275501" y="549.4" id="svg_117" font-size="10" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">S' SPACE</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="622.275501" y="262.4" id="svg_119" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="500.275501" y="244.4" id="svg_120" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">LIBRARY</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="9.275501" y="160.4" id="svg_122" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab2.17</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="47.275501" y="79.4" id="svg_123" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="68.275501" y="160.4" id="svg_125" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab2.16</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="312.275501" y="160.4" id="svg_126" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab2.14</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="229.275501" y="160.4" id="svg_127" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab2.15</text>
  </g>
 </svg>

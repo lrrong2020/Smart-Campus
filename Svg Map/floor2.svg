@@ -1,6 +1,5 @@
-<svg width="1190.6" height="841.9" xmlns="http://www.w3.org/2000/svg">
-    <style type="text/css">
-        .st0 {
+<svg width="603.6" height="551.9" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0 {
             fill: none;
             stroke: #000000;
             stroke-width: 0.48;
@@ -35,228 +34,211 @@
 
         #svg_82 {
             fill: #F94144
-        }
-    </style>
+        }</style>
 
-    <g>
-        <title>background</title>
-        <rect fill="none" id="canvas_background" height="843.89" width="1192.551" y="-1" x="-1" />
-    </g>
-    <g>
-        <title>Layer 1</title>
-        <path id="svg_1" d="m410.8,258.5l0,10.4" class="st0" />
-        <polygon id="svg_2"
-            points="862.7,147.8 774.5,147.8 774.7,160.4 392.5,160.4 392.5,150.4 262.9,150.4 262.9,331 394.2,331  394.2,312.3 457,312.3 457,292.5 725.3,292.5 725.3,292.2 755,292.2 755,307.3 732,307.3 732,537.8 651,537.8 651,498.1  305.6,498.1 305.6,679.3 818.9,680.4 818.9,625.7 862.7,625.7 "
-            class="st1" />
-        <g id="svg_3">
-            <rect id="svg_4" height="21.1" width="1.7" y="267.8" x="732.2" />
-            <rect id="svg_5" height="21.1" width="1.7" y="267.8" x="728.8" />
-            <rect id="svg_6" height="21.1" width="1.7" y="267.8" x="725.4" />
-            <rect id="svg_7" height="21.1" width="1.7" y="267.8" x="722" />
-            <rect id="svg_8" height="21.1" width="1.7" y="267.8" x="735.6" />
-            <rect id="svg_9" height="21.1" width="1.7" y="267.8" x="739" />
-            <rect id="svg_10" height="21.1" width="1.7" y="267.8" x="742.4" />
-            <rect id="svg_11" height="21.1" width="1.7" y="267.8" x="745.8" />
-            <rect id="svg_12" height="21.1" width="1.7" y="267.8" x="749.2" />
-            <rect id="svg_13" height="21.1" width="1.7" y="267.8" x="752.6" />
-            <rect id="svg_14" height="21.1" width="1.7" y="267.8" x="756" />
-        </g>
-        <polygon id="svg_15" points="390.7,150.4 308.8,150.4 308.8,230.8 379.8,230.8 379.8,226.6 390.7,226.6 "
-            class="st2" />
-        <rect id="svg_16" height="27.2" width="53" class="st2" y="192.6" x="394.4" />
-        <rect id="svg_17" height="27.2" width="25.8" class="st2" y="192.6" x="449.7" />
-        <rect id="svg_18" height="27.2" width="39.1" class="st2" y="192.6" x="477.7" />
-        <rect id="svg_19" height="27.2" width="27.8" class="st2" y="192.6" x="519.1" />
-        <rect id="svg_20" height="27.2" width="25.3" class="st2" y="192.6" x="549.2" />
-        <rect id="svg_21" height="27.2" width="27.2" class="st2" y="192.6" x="576.7" />
-        <rect id="svg_22" height="27.2" width="25.3" class="st2" y="192.6" x="606.2" />
-        <rect id="svg_23" height="27.2" width="14.2" class="st2" y="192.6" x="633.7" />
-        <rect id="svg_24" height="27.2" width="42.1" class="st2" y="192.6" x="650.3" />
-        <rect id="svg_25" height="27.2" width="25.8" class="st2" y="192.6" x="694.8" />
-        <rect id="svg_26" height="27.2" width="25.2" class="st2" y="192.6" x="722.9" />
-        <rect id="svg_27" height="27.2" width="26.6" class="st2" y="192.6" x="750.5" />
-        <rect id="svg_28" height="29.8" width="38.6" class="st2" y="147.2" x="779.5" />
-        <rect id="svg_29" height="16.7" width="25.6" class="st2" y="179.8" x="779.4" />
-        <rect id="svg_30" height="41" width="42.7" class="st2" y="147.8" x="820" />
-        <rect id="svg_31" height="27.1" width="42.7" class="st2" y="190.9" x="820" />
-        <rect id="svg_32" height="18.7" width="12" class="st3" y="199.1" x="779.4" />
-        <rect id="svg_33" height="21" width="12.4" class="st3" y="198.7" x="792.6" />
-        <rect id="svg_34" height="25.3" width="33" class="st2" y="220.3" x="829.7" />
-        <rect id="svg_35" height="19.8" width="32.8" class="st2" y="246.9" x="829.9" />
-        <rect id="svg_36" height="19.8" width="32.8" class="st2" y="268" x="829.9" />
-        <rect id="svg_37" height="19.8" width="32.8" class="st2" y="289.1" x="829.9" />
-        <rect id="svg_38" height="19.8" width="32.8" class="st2" y="310.1" x="829.9" />
-        <rect id="svg_39" height="19.8" width="32.8" class="st2" y="331.2" x="829.9" />
-        <rect id="svg_40" height="19.8" width="32.8" class="st2" y="352.3" x="829.9" />
-        <rect id="svg_41" height="19.8" width="32.8" class="st2" y="373.3" x="829.9" />
-        <rect id="svg_42" height="19.8" width="32.8" class="st2" y="394.4" x="829.9" />
-        <rect id="svg_43" height="19.8" width="32.8" class="st2" y="415.5" x="829.9" />
-        <rect id="svg_44" height="19.8" width="32.8" class="st2" y="436.6" x="829.9" />
-        <rect id="svg_45" height="19.8" width="32.8" class="st2" y="457.6" x="829.9" />
-        <rect id="svg_46" height="19.8" width="44.8" class="st2" y="310.1" x="731.9" />
-        <rect id="svg_47" height="19.8" width="44.8" class="st2" y="331.2" x="731.9" />
-        <rect id="svg_48" height="19.8" width="44.8" class="st2" y="352.3" x="731.9" />
-        <rect id="svg_49" height="19.8" width="44.8" class="st2" y="373.3" x="731.9" />
-        <rect id="svg_50" height="19.8" width="44.8" class="st2" y="394.4" x="731.9" />
-        <rect id="svg_51" height="19.8" width="44.8" class="st2" y="415.5" x="731.9" />
-        <rect id="svg_52" height="19.8" width="44.8" class="st2" y="436.6" x="731.9" />
-        <rect id="svg_53" height="19.8" width="44.8" class="st2" y="457.6" x="731.9" />
-        <polygon id="svg_54" points="862.7,478.7 829.9,478.7 829.9,495.6 847.7,495.6 847.7,497.7 862.7,497.7 "
-            class="st2" />
-        <rect id="svg_55" height="88.6" width="22.3" class="st2" y="220.3" x="806.5" />
-        <rect id="svg_56" height="45.7" width="31.9" class="st2" y="323.3" x="788.2" />
-        <rect id="svg_57" height="11" width="19.3" class="st2" y="370" x="800.9" />
-        <rect id="svg_58" height="44.5" width="31.9" class="st2" y="382.1" x="788.2" />
-        <rect id="svg_59" height="49.6" width="31.9" class="st2" y="427.8" x="788.2" />
-        <rect id="svg_60" height="16.8" width="32.2" class="st3" y="501.4" x="763.9" />
-        <rect id="svg_61" height="18.4" width="14.9" class="st3" y="520.2" x="781.6" />
-        <rect id="svg_62" height="10.4" width="16.3" class="st3" y="528.8" x="763.9" />
-        <rect id="svg_63" height="10.4" width="20" class="st2" y="500.2" x="798.4" />
-        <rect id="svg_64" height="26.8" width="20" class="st2" y="511.8" x="798.4" />
-        <rect id="svg_65" height="38.5" width="21.1" class="st2" y="500.3" x="820.1" />
-        <polygon id="svg_66" points="861.1,500.3 848.2,500.3 848.2,519 841.9,519 841.9,538.8 861.2,538.8 "
-            class="st2" />
-        <rect id="svg_67" height="17" width="48.8" class="st3" y="248.3" x="721.9" />
-        <rect id="svg_68" height="19.2" width="35.8" class="st2" y="230.4" x="608.5" />
-        <rect id="svg_69" height="19.2" width="52.8" class="st2" y="230.4" x="496.3" />
-        <rect id="svg_70" height="19.2" width="13.1" class="st2" y="230.4" x="481.5" />
-        <rect id="svg_71" height="19.4" width="42.8" class="st2" y="230.2" x="645.7" />
-        <rect id="svg_72" height="31.6" width="12.1" class="st2" y="260.8" x="707.4" />
-        <rect id="svg_73" height="31.6" width="26.6" class="st2" y="260.8" x="679.2" />
-        <rect id="svg_74" height="31.6" width="26.6" class="st2" y="260.8" x="651" />
-        <rect id="svg_75" height="31.6" width="26.6" class="st2" y="260.8" x="620.3" />
-        <rect id="svg_76" height="31.6" width="26.6" class="st2" y="260.8" x="591.8" />
-        <rect id="svg_77" height="31.6" width="26.6" class="st2" y="260.8" x="563.4" />
-        <rect id="svg_78" height="31.6" width="26.6" class="st2" y="260.8" x="535" />
-        <rect id="svg_79" height="31.6" width="26.6" class="st2" y="260.8" x="506.5" />
-        <rect id="svg_80" height="31.6" width="26.6" class="st2" y="260.8" x="478.1" />
-        <polygon id="svg_81" points="330.6,255.6 330.6,248.8 308.9,248.8 308.9,287.8 348.8,287.9 348.8,255.6 "
-            class="st2" />
-        <polygon id="svg_82"
-            points="380,255.6 380,250.6 362,250.6 362,255.6 351.5,255.6 351.5,331.1 390.8,331 390.8,255.6 "
-            class="st2" />
-        <g id="svg_83">
-            <rect id="svg_84" height="21.1" width="1.7" y="247.9" x="407.2" />
-            <rect id="svg_85" height="21.1" width="1.7" y="247.9" x="403.8" />
-            <rect id="svg_86" height="21.1" width="1.7" y="247.9" x="400.4" />
-            <rect id="svg_87" height="21.1" width="1.7" y="247.9" x="396.9" />
-            <rect id="svg_88" height="21.1" width="1.7" y="247.9" x="410.6" />
-            <rect id="svg_89" height="21.1" width="1.7" y="247.9" x="414" />
-            <rect id="svg_90" height="21.1" width="1.7" y="247.9" x="417.4" />
-            <rect id="svg_91" height="21.1" width="1.7" y="247.9" x="420.8" />
-            <rect id="svg_92" height="21.1" width="1.7" y="247.9" x="424.2" />
-            <rect id="svg_93" height="21.1" width="1.7" y="247.9" x="427.6" />
-        </g>
-        <rect id="svg_94" height="16.2" width="35.9" class="st3" y="271.4" x="393.4" />
-        <rect id="svg_95" height="18.4" width="36.1" class="st3" y="290.4" x="393.4" />
-        <rect id="svg_96" height="11.5" width="10.7" class="st3" y="297.2" x="431.1" />
-        <rect id="svg_97" height="11.3" width="10.8" class="st3" y="297.2" x="443.4" />
-        <g id="svg_98">
-            <rect id="svg_99" height="21.1" width="1.7" y="541.9" x="661.6" />
-            <rect id="svg_100" height="21.1" width="1.7" y="541.9" x="658.2" />
-            <rect id="svg_101" height="21.1" width="1.7" y="541.9" x="654.8" />
-            <rect id="svg_102" height="21.1" width="1.7" y="541.9" x="651.4" />
-            <rect id="svg_103" height="21.1" width="1.7" y="541.9" x="665" />
-            <rect id="svg_104" height="21.1" width="1.7" y="541.9" x="668.4" />
-            <rect id="svg_105" height="21.1" width="1.7" y="541.9" x="671.8" />
-            <rect id="svg_106" height="21.1" width="1.7" y="541.9" x="675.2" />
-            <rect id="svg_107" height="21.1" width="1.7" y="541.9" x="678.6" />
-            <rect id="svg_108" height="21.1" width="1.7" y="541.9" x="682" />
-            <rect id="svg_109" height="21.1" width="1.7" y="541.9" x="685.4" />
-        </g>
-        <rect id="svg_110" height="16.7" width="49.8" class="st3" y="565.6" x="651.1" />
-        <rect id="svg_111" height="15.7" width="31.8" class="st3" y="584.3" x="651.5" />
-        <rect id="svg_112" height="15.8" width="11.6" class="st3" y="584.2" x="701.6" />
-        <rect id="svg_113" height="15.8" width="16.9" class="st2" y="584.2" x="714.7" />
-        <rect id="svg_114" height="11.9" width="27.6" class="st2" y="570.5" x="703" />
-        <rect id="svg_115" height="11.6" width="15.1" class="st2" y="557.8" x="703" />
-        <rect id="svg_116" height="27.8" width="10.8" class="st2" y="609.7" x="750.5" />
-        <rect id="svg_117" height="27.8" width="11.6" class="st2" y="609.7" x="736.9" />
-        <rect id="svg_118" height="27.8" width="12.5" class="st2" y="609.7" x="722.5" />
-        <rect id="svg_119" height="27.8" width="12.5" class="st2" y="609.7" x="708.1" />
-        <rect id="svg_120" height="27.8" width="12.5" class="st2" y="609.7" x="693.7" />
-        <rect id="svg_121" height="27.8" width="26.4" class="st2" y="609.7" x="665.4" />
-        <rect id="svg_122" height="27.8" width="26.6" class="st2" y="609.7" x="636.9" />
-        <rect id="svg_123" height="27.8" width="27.4" class="st2" y="609.7" x="607.6" />
-        <rect id="svg_124" height="27.8" width="26.8" class="st2" y="609.7" x="578.1" />
-        <rect id="svg_125" height="27.8" width="26.8" class="st2" y="609.7" x="549.4" />
-        <rect id="svg_126" height="27.8" width="26.8" class="st2" y="609.7" x="520.7" />
-        <rect id="svg_127" height="27.8" width="26.8" class="st2" y="609.7" x="492.1" />
-        <rect id="svg_128" height="27.8" width="26.8" class="st2" y="609.7" x="463.4" />
-        <rect id="svg_129" height="27.8" width="26.8" class="st2" y="609.7" x="434.7" />
-        <rect id="svg_130" height="27.8" width="14.8" class="st2" y="542.4" x="476.4" />
-        <rect id="svg_131" height="27.8" width="26.6" class="st2" y="542.4" x="493" />
-        <rect id="svg_132" height="27.8" width="26.3" class="st2" y="542.4" x="521.4" />
-        <rect id="svg_133" height="27.8" width="26.6" class="st2" y="542.4" x="549.5" />
-        <rect id="svg_134" height="27.8" width="26.6" class="st2" y="542.4" x="577.9" />
-        <rect id="svg_135" height="27.8" width="26.6" class="st2" y="542.4" x="607.6" />
-        <rect id="svg_136" height="27.8" width="12.6" class="st2" y="542.4" x="636.2" />
-        <rect id="svg_137" height="20" width="34.6" class="st2" y="580" x="481" />
-        <rect id="svg_138" height="20" width="45" class="st2" y="580" x="517.9" />
-        <rect id="svg_139" height="20" width="37" class="st2" y="580" x="565.3" />
-        <g id="svg_140">
-            <rect id="svg_141" height="21.1" width="1.7" y="542.2" x="416" />
-            <rect id="svg_142" height="21.1" width="1.7" y="542.2" x="412.6" />
-            <rect id="svg_143" height="21.1" width="1.7" y="542.2" x="409.2" />
-            <rect id="svg_144" height="21.1" width="1.7" y="542.2" x="405.8" />
-            <rect id="svg_145" height="21.1" width="1.7" y="542.2" x="419.4" />
-            <rect id="svg_146" height="21.1" width="1.7" y="542.2" x="422.8" />
-            <rect id="svg_147" height="21.1" width="1.7" y="542.2" x="426.2" />
-            <rect id="svg_148" height="21.1" width="1.7" y="542.2" x="429.6" />
-            <rect id="svg_149" height="21.1" width="1.7" y="542.2" x="433" />
-            <rect id="svg_150" height="21.1" width="1.7" y="542.2" x="436.4" />
-            <rect id="svg_151" height="21.1" width="1.7" y="542.2" x="439.8" />
-        </g>
-        <rect id="svg_152" height="15.6" width="27.6" class="st3" y="566" x="413.8" />
-        <rect id="svg_153" height="12.7" width="14.8" class="st3" y="583.9" x="443.9" />
-        <rect id="svg_154" height="16.1" width="18.5" class="st3" y="583.9" x="407.5" />
-        <rect id="svg_155" height="16.1" width="13.7" class="st3" y="583.9" x="391.3" />
-        <rect id="svg_156" height="28.1" width="15.1" class="st2" y="554.5" x="443.6" />
-        <rect id="svg_157" height="30.7" width="40.8" class="st2" y="609.2" x="391.3" />
-        <rect id="svg_158" height="27.9" width="12.1" class="st2" y="651.4" x="308.6" />
-        <rect id="svg_159" height="27.9" width="12.8" class="st2" y="651.4" x="322.1" />
-        <rect id="svg_160" height="27.9" width="12.8" class="st2" y="651.4" x="336.3" />
-        <rect id="svg_161" height="27.9" width="12.8" class="st2" y="651.4" x="350.4" />
-        <rect id="svg_162" height="27.9" width="12.8" class="st2" y="651.4" x="364.5" />
-        <rect id="svg_163" height="27.9" width="12.8" class="st2" y="651.4" x="378.7" />
-        <rect id="svg_164" height="27.9" width="12.8" class="st2" y="651.4" x="392.8" />
-        <rect id="svg_165" height="27.9" width="12.8" class="st2" y="651.4" x="407" />
-        <rect id="svg_166" height="27.9" width="12.8" class="st2" y="651.4" x="421.1" />
-        <rect id="svg_167" height="29.8" width="12.1" class="st2" y="498.1" x="308.6" />
-        <rect id="svg_168" height="29.8" width="12.8" class="st2" y="498.1" x="322.1" />
-        <rect id="svg_169" height="29.8" width="12.8" class="st2" y="498.1" x="336.3" />
-        <rect id="svg_170" height="29.8" width="12.8" class="st2" y="498.1" x="350.4" />
-        <rect id="svg_171" height="29.8" width="12.8" class="st2" y="498.1" x="364.5" />
-        <rect id="svg_172" height="29.8" width="12.8" class="st2" y="498.1" x="378.7" />
-        <rect id="svg_173" height="29.8" width="12.8" class="st2" y="498.1" x="392.8" />
-        <rect id="svg_174" height="29.8" width="12.8" class="st2" y="498.1" x="407" />
-        <rect id="svg_175" height="29.8" width="12.8" class="st2" y="498.1" x="421.1" />
-        <rect id="svg_176" height="29.8" width="12.8" class="st2" y="498.1" x="435.3" />
-        <rect id="svg_177" height="29.8" width="27.5" class="st2" y="498.1" x="449.4" />
-        <rect id="svg_178" height="20.9" width="26.6" class="st2" y="540.2" x="351.4" />
-        <rect id="svg_179" height="18.3" width="26.6" class="st2" y="562.8" x="351.4" />
-        <rect id="svg_180" height="14.4" width="26.6" class="st2" y="582.8" x="351.4" />
-        <rect id="svg_181" height="18.3" width="26.6" class="st2" y="598.8" x="351.4" />
-        <rect id="svg_182" height="21.2" width="26.6" class="st2" y="618.8" x="351.4" />
-        <rect id="svg_183" height="11.1" width="12.4" class="st4" y="370" x="787.3" />
-        <g id="Livello_2_1_">
-            <g id="Livello_2-2">
-                <polygon id="svg_184"
-                    points="309.5,288 309.5,150.5 263.5,150.5 263.5,331.1 303.5,331.1 309.5,331.1 349.4,331.1 349.4,288   "
-                    class="st5" />
-                <rect id="svg_185" height="32.2" width="382.2" class="st5" y="160.6" x="393.1" />
-                <polygon id="svg_186"
-                    points="863.3,538.8 762,538.8 762,592.1 762,625.8 762,637.9 434.7,637.9 434.7,680.5 762,680.5    794.4,680.5 819.5,680.5 819.5,625.8 863.3,625.8   "
-                    class="st5" />
-                <rect id="svg_187" height="44.3" width="174.1" class="st5" y="498.3" x="477.5" />
-                <rect id="svg_188" height="123.5" width="45.8" class="st5" y="528" x="306.2" />
-            </g>
-        </g>
-        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15"
-            id="svg_189" y="274.8" x="354.299999" fill-opacity="null" stroke-opacity="null" stroke-width="0"
-            stroke="null" fill="#000000">C4.1</text>
-        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20"
-            id="svg_191" y="189.8" x="330.299999" fill-opacity="null" stroke-opacity="null" stroke-width="0"
-            stroke="null" fill="#000000">L4.2</text>
-    </g>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="605.6" height="553.9" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path class="st0" d="m149.8,128.5l0,10.4" id="svg_1"/>
+  <polygon class="st1" points="601.7000122070312,17.800003051757812 513.5,17.800003051757812 513.7000122070312,30.399993896484375 131.5,30.399993896484375 131.5,20.399993896484375 1.899993896484375,20.399993896484375 1.899993896484375,201 133.20001220703125,201 133.20001220703125,182.29998779296875 196,182.29998779296875 196,162.5 464.29998779296875,162.5 464.29998779296875,162.20001220703125 494,162.20001220703125 494,177.29998779296875 471,177.29998779296875 471,407.79998779296875 390,407.79998779296875 390,368.1000061035156 44.600006103515625,368.1000061035156 44.600006103515625,549.2999877929688 557.9000244140625,550.4000244140625 557.9000244140625,495.70001220703125 601.7000122070312,495.70001220703125 " id="svg_2"/>
+  <g id="svg_3">
+   <rect x="471.2" y="137.8" width="1.7" height="21.1" id="svg_4"/>
+   <rect x="467.8" y="137.8" width="1.7" height="21.1" id="svg_5"/>
+   <rect x="464.4" y="137.8" width="1.7" height="21.1" id="svg_6"/>
+   <rect x="461" y="137.8" width="1.7" height="21.1" id="svg_7"/>
+   <rect x="474.6" y="137.8" width="1.7" height="21.1" id="svg_8"/>
+   <rect x="478" y="137.8" width="1.7" height="21.1" id="svg_9"/>
+   <rect x="481.4" y="137.8" width="1.7" height="21.1" id="svg_10"/>
+   <rect x="484.8" y="137.8" width="1.7" height="21.1" id="svg_11"/>
+   <rect x="488.2" y="137.8" width="1.7" height="21.1" id="svg_12"/>
+   <rect x="491.6" y="137.8" width="1.7" height="21.1" id="svg_13"/>
+   <rect x="495" y="137.8" width="1.7" height="21.1" id="svg_14"/>
+  </g>
+  <polygon class="st2" points="129.70001220703125,20.399993896484375 47.79998779296875,20.399993896484375 47.79998779296875,100.80000305175781 118.79998779296875,100.80000305175781 118.79998779296875,96.60000610351562 129.70001220703125,96.60000610351562 " id="svg_15"/>
+  <rect x="133.4" y="62.6" class="st2" width="53" height="27.2" id="svg_16"/>
+  <rect x="188.7" y="62.6" class="st2" width="25.8" height="27.2" id="svg_17"/>
+  <rect x="216.7" y="62.6" class="st2" width="39.1" height="27.2" id="svg_18"/>
+  <rect x="258.1" y="62.6" class="st2" width="27.8" height="27.2" id="svg_19"/>
+  <rect x="288.2" y="62.6" class="st2" width="25.3" height="27.2" id="svg_20"/>
+  <rect x="315.7" y="62.6" class="st2" width="27.2" height="27.2" id="svg_21"/>
+  <rect x="345.2" y="62.6" class="st2" width="25.3" height="27.2" id="svg_22"/>
+  <rect x="372.7" y="62.6" class="st2" width="14.2" height="27.2" id="svg_23"/>
+  <rect x="389.3" y="62.6" class="st2" width="42.1" height="27.2" id="svg_24"/>
+  <rect x="433.8" y="62.6" class="st2" width="25.8" height="27.2" id="svg_25"/>
+  <rect x="461.9" y="62.6" class="st2" width="25.2" height="27.2" id="svg_26"/>
+  <rect x="489.5" y="62.6" class="st2" width="26.6" height="27.2" id="svg_27"/>
+  <rect x="518.5" y="17.2" class="st2" width="38.6" height="29.8" id="svg_28"/>
+  <rect x="518.4" y="49.8" class="st2" width="25.6" height="16.7" id="svg_29"/>
+  <rect x="559" y="17.8" class="st2" width="42.7" height="41" id="svg_30"/>
+  <rect x="559" y="60.9" class="st2" width="42.7" height="27.1" id="svg_31"/>
+  <rect x="518.4" y="69.1" class="st3" width="12" height="18.7" id="svg_32"/>
+  <rect x="531.6" y="68.7" class="st3" width="12.4" height="21" id="svg_33"/>
+  <rect x="568.7" y="90.3" class="st2" width="33" height="25.3" id="svg_34"/>
+  <rect x="568.9" y="116.9" class="st2" width="32.8" height="19.8" id="svg_35"/>
+  <rect x="568.9" y="138" class="st2" width="32.8" height="19.8" id="svg_36"/>
+  <rect x="568.9" y="159.1" class="st2" width="32.8" height="19.8" id="svg_37"/>
+  <rect x="568.9" y="180.1" class="st2" width="32.8" height="19.8" id="svg_38"/>
+  <rect x="568.9" y="201.2" class="st2" width="32.8" height="19.8" id="svg_39"/>
+  <rect x="568.9" y="222.3" class="st2" width="32.8" height="19.8" id="svg_40"/>
+  <rect x="568.9" y="243.3" class="st2" width="32.8" height="19.8" id="svg_41"/>
+  <rect x="568.9" y="264.4" class="st2" width="32.8" height="19.8" id="svg_42"/>
+  <rect x="568.9" y="285.5" class="st2" width="32.8" height="19.8" id="svg_43"/>
+  <rect x="568.9" y="306.6" class="st2" width="32.8" height="19.8" id="svg_44"/>
+  <rect x="568.9" y="327.6" class="st2" width="32.8" height="19.8" id="svg_45"/>
+  <rect x="470.9" y="180.1" class="st2" width="44.8" height="19.8" id="svg_46"/>
+  <rect x="470.9" y="201.2" class="st2" width="44.8" height="19.8" id="svg_47"/>
+  <rect x="470.9" y="222.3" class="st2" width="44.8" height="19.8" id="svg_48"/>
+  <rect x="470.9" y="243.3" class="st2" width="44.8" height="19.8" id="svg_49"/>
+  <rect x="470.9" y="264.4" class="st2" width="44.8" height="19.8" id="svg_50"/>
+  <rect x="470.9" y="285.5" class="st2" width="44.8" height="19.8" id="svg_51"/>
+  <rect x="470.9" y="306.6" class="st2" width="44.8" height="19.8" id="svg_52"/>
+  <rect x="470.9" y="327.6" class="st2" width="44.8" height="19.8" id="svg_53"/>
+  <polygon class="st2" points="601.7000122070312,348.70001220703125 568.9000244140625,348.70001220703125 568.9000244140625,365.6000061035156 586.7000122070312,365.6000061035156 586.7000122070312,367.70001220703125 601.7000122070312,367.70001220703125 " id="svg_54"/>
+  <rect x="545.5" y="90.3" class="st2" width="22.3" height="88.6" id="svg_55"/>
+  <rect x="527.2" y="193.3" class="st2" width="31.9" height="45.7" id="svg_56"/>
+  <rect x="539.9" y="240" class="st2" width="19.3" height="11" id="svg_57"/>
+  <rect x="527.2" y="252.1" class="st2" width="31.9" height="44.5" id="svg_58"/>
+  <rect x="527.2" y="297.8" class="st2" width="31.9" height="49.6" id="svg_59"/>
+  <rect x="502.9" y="371.4" class="st3" width="32.2" height="16.8" id="svg_60"/>
+  <rect x="520.6" y="390.2" class="st3" width="14.9" height="18.4" id="svg_61"/>
+  <rect x="502.9" y="398.8" class="st3" width="16.3" height="10.4" id="svg_62"/>
+  <rect x="537.4" y="370.2" class="st2" width="20" height="10.4" id="svg_63"/>
+  <rect x="537.4" y="381.8" class="st2" width="20" height="26.8" id="svg_64"/>
+  <rect x="559.1" y="370.3" class="st2" width="21.1" height="38.5" id="svg_65"/>
+  <polygon class="st2" points="600.0999755859375,370.29998779296875 587.2000122070312,370.29998779296875 587.2000122070312,389 580.9000244140625,389 580.9000244140625,408.79998779296875 600.2000122070312,408.79998779296875 " id="svg_66"/>
+  <rect x="460.9" y="118.3" class="st3" width="48.8" height="17" id="svg_67"/>
+  <rect x="347.5" y="100.4" class="st2" width="35.8" height="19.2" id="svg_68"/>
+  <rect x="235.3" y="100.4" class="st2" width="52.8" height="19.2" id="svg_69"/>
+  <rect x="220.5" y="100.4" class="st2" width="13.1" height="19.2" id="svg_70"/>
+  <rect x="384.7" y="100.2" class="st2" width="42.8" height="19.4" id="svg_71"/>
+  <rect x="446.4" y="130.8" class="st2" width="12.1" height="31.6" id="svg_72"/>
+  <rect x="418.2" y="130.8" class="st2" width="26.6" height="31.6" id="svg_73"/>
+  <rect x="390" y="130.8" class="st2" width="26.6" height="31.6" id="svg_74"/>
+  <rect x="359.3" y="130.8" class="st2" width="26.6" height="31.6" id="svg_75"/>
+  <rect x="330.8" y="130.8" class="st2" width="26.6" height="31.6" id="svg_76"/>
+  <rect x="302.4" y="130.8" class="st2" width="26.6" height="31.6" id="svg_77"/>
+  <rect x="274" y="130.8" class="st2" width="26.6" height="31.6" id="svg_78"/>
+  <rect x="245.5" y="130.8" class="st2" width="26.6" height="31.6" id="svg_79"/>
+  <rect x="217.1" y="130.8" class="st2" width="26.6" height="31.6" id="svg_80"/>
+  <polygon class="st2" points="69.60000610351562,125.60000610351562 69.60000610351562,118.80000305175781 47.899993896484375,118.80000305175781 47.899993896484375,157.79998779296875 87.79998779296875,157.89999389648438 87.79998779296875,125.60000610351562 " id="svg_81"/>
+  <polygon class="st2" points="119,125.60000610351562 119,120.60000610351562 101,120.60000610351562 101,125.60000610351562 90.5,125.60000610351562 90.5,201.10000610351562 129.79998779296875,201 129.79998779296875,125.60000610351562 " id="svg_82"/>
+  <g id="svg_83">
+   <rect x="146.2" y="117.9" width="1.7" height="21.1" id="svg_84"/>
+   <rect x="142.8" y="117.9" width="1.7" height="21.1" id="svg_85"/>
+   <rect x="139.4" y="117.9" width="1.7" height="21.1" id="svg_86"/>
+   <rect x="135.9" y="117.9" width="1.7" height="21.1" id="svg_87"/>
+   <rect x="149.6" y="117.9" width="1.7" height="21.1" id="svg_88"/>
+   <rect x="153" y="117.9" width="1.7" height="21.1" id="svg_89"/>
+   <rect x="156.4" y="117.9" width="1.7" height="21.1" id="svg_90"/>
+   <rect x="159.8" y="117.9" width="1.7" height="21.1" id="svg_91"/>
+   <rect x="163.2" y="117.9" width="1.7" height="21.1" id="svg_92"/>
+   <rect x="166.6" y="117.9" width="1.7" height="21.1" id="svg_93"/>
+  </g>
+  <rect x="132.4" y="141.4" class="st3" width="35.9" height="16.2" id="svg_94"/>
+  <rect x="132.4" y="160.4" class="st3" width="36.1" height="18.4" id="svg_95"/>
+  <rect x="170.1" y="167.2" class="st3" width="10.7" height="11.5" id="svg_96"/>
+  <rect x="182.4" y="167.2" class="st3" width="10.8" height="11.3" id="svg_97"/>
+  <g id="svg_98">
+   <rect x="400.6" y="411.9" width="1.7" height="21.1" id="svg_99"/>
+   <rect x="397.2" y="411.9" width="1.7" height="21.1" id="svg_100"/>
+   <rect x="393.8" y="411.9" width="1.7" height="21.1" id="svg_101"/>
+   <rect x="390.4" y="411.9" width="1.7" height="21.1" id="svg_102"/>
+   <rect x="404" y="411.9" width="1.7" height="21.1" id="svg_103"/>
+   <rect x="407.4" y="411.9" width="1.7" height="21.1" id="svg_104"/>
+   <rect x="410.8" y="411.9" width="1.7" height="21.1" id="svg_105"/>
+   <rect x="414.2" y="411.9" width="1.7" height="21.1" id="svg_106"/>
+   <rect x="417.6" y="411.9" width="1.7" height="21.1" id="svg_107"/>
+   <rect x="421" y="411.9" width="1.7" height="21.1" id="svg_108"/>
+   <rect x="424.4" y="411.9" width="1.7" height="21.1" id="svg_109"/>
+  </g>
+  <rect x="390.1" y="435.6" class="st3" width="49.8" height="16.7" id="svg_110"/>
+  <rect x="390.5" y="454.3" class="st3" width="31.8" height="15.7" id="svg_111"/>
+  <rect x="440.6" y="454.2" class="st3" width="11.6" height="15.8" id="svg_112"/>
+  <rect x="453.7" y="454.2" class="st2" width="16.9" height="15.8" id="svg_113"/>
+  <rect x="442" y="440.5" class="st2" width="27.6" height="11.9" id="svg_114"/>
+  <rect x="442" y="427.8" class="st2" width="15.1" height="11.6" id="svg_115"/>
+  <rect x="489.5" y="479.7" class="st2" width="10.8" height="27.8" id="svg_116"/>
+  <rect x="475.9" y="479.7" class="st2" width="11.6" height="27.8" id="svg_117"/>
+  <rect x="461.5" y="479.7" class="st2" width="12.5" height="27.8" id="svg_118"/>
+  <rect x="447.1" y="479.7" class="st2" width="12.5" height="27.8" id="svg_119"/>
+  <rect x="432.7" y="479.7" class="st2" width="12.5" height="27.8" id="svg_120"/>
+  <rect x="404.4" y="479.7" class="st2" width="26.4" height="27.8" id="svg_121"/>
+  <rect x="375.9" y="479.7" class="st2" width="26.6" height="27.8" id="svg_122"/>
+  <rect x="346.6" y="479.7" class="st2" width="27.4" height="27.8" id="svg_123"/>
+  <rect x="317.1" y="479.7" class="st2" width="26.8" height="27.8" id="svg_124"/>
+  <rect x="288.4" y="479.7" class="st2" width="26.8" height="27.8" id="svg_125"/>
+  <rect x="259.7" y="479.7" class="st2" width="26.8" height="27.8" id="svg_126"/>
+  <rect x="231.1" y="479.7" class="st2" width="26.8" height="27.8" id="svg_127"/>
+  <rect x="202.4" y="479.7" class="st2" width="26.8" height="27.8" id="svg_128"/>
+  <rect x="173.7" y="479.7" class="st2" width="26.8" height="27.8" id="svg_129"/>
+  <rect x="215.4" y="412.4" class="st2" width="14.8" height="27.8" id="svg_130"/>
+  <rect x="232" y="412.4" class="st2" width="26.6" height="27.8" id="svg_131"/>
+  <rect x="260.4" y="412.4" class="st2" width="26.3" height="27.8" id="svg_132"/>
+  <rect x="288.5" y="412.4" class="st2" width="26.6" height="27.8" id="svg_133"/>
+  <rect x="316.9" y="412.4" class="st2" width="26.6" height="27.8" id="svg_134"/>
+  <rect x="346.6" y="412.4" class="st2" width="26.6" height="27.8" id="svg_135"/>
+  <rect x="375.2" y="412.4" class="st2" width="12.6" height="27.8" id="svg_136"/>
+  <rect x="220" y="450" class="st2" width="34.6" height="20" id="svg_137"/>
+  <rect x="256.9" y="450" class="st2" width="45" height="20" id="svg_138"/>
+  <rect x="304.3" y="450" class="st2" width="37" height="20" id="svg_139"/>
+  <g id="svg_140">
+   <rect x="155" y="412.2" width="1.7" height="21.1" id="svg_141"/>
+   <rect x="151.6" y="412.2" width="1.7" height="21.1" id="svg_142"/>
+   <rect x="148.2" y="412.2" width="1.7" height="21.1" id="svg_143"/>
+   <rect x="144.8" y="412.2" width="1.7" height="21.1" id="svg_144"/>
+   <rect x="158.4" y="412.2" width="1.7" height="21.1" id="svg_145"/>
+   <rect x="161.8" y="412.2" width="1.7" height="21.1" id="svg_146"/>
+   <rect x="165.2" y="412.2" width="1.7" height="21.1" id="svg_147"/>
+   <rect x="168.6" y="412.2" width="1.7" height="21.1" id="svg_148"/>
+   <rect x="172" y="412.2" width="1.7" height="21.1" id="svg_149"/>
+   <rect x="175.4" y="412.2" width="1.7" height="21.1" id="svg_150"/>
+   <rect x="178.8" y="412.2" width="1.7" height="21.1" id="svg_151"/>
+  </g>
+  <rect x="152.8" y="436" class="st3" width="27.6" height="15.6" id="svg_152"/>
+  <rect x="182.9" y="453.9" class="st3" width="14.8" height="12.7" id="svg_153"/>
+  <rect x="146.5" y="453.9" class="st3" width="18.5" height="16.1" id="svg_154"/>
+  <rect x="130.3" y="453.9" class="st3" width="13.7" height="16.1" id="svg_155"/>
+  <rect x="182.6" y="424.5" class="st2" width="15.1" height="28.1" id="svg_156"/>
+  <rect x="130.3" y="479.2" class="st2" width="40.8" height="30.7" id="svg_157"/>
+  <rect x="47.6" y="521.4" class="st2" width="12.1" height="27.9" id="svg_158"/>
+  <rect x="61.1" y="521.4" class="st2" width="12.8" height="27.9" id="svg_159"/>
+  <rect x="75.3" y="521.4" class="st2" width="12.8" height="27.9" id="svg_160"/>
+  <rect x="89.4" y="521.4" class="st2" width="12.8" height="27.9" id="svg_161"/>
+  <rect x="103.5" y="521.4" class="st2" width="12.8" height="27.9" id="svg_162"/>
+  <rect x="117.7" y="521.4" class="st2" width="12.8" height="27.9" id="svg_163"/>
+  <rect x="131.8" y="521.4" class="st2" width="12.8" height="27.9" id="svg_164"/>
+  <rect x="146" y="521.4" class="st2" width="12.8" height="27.9" id="svg_165"/>
+  <rect x="160.1" y="521.4" class="st2" width="12.8" height="27.9" id="svg_166"/>
+  <rect x="47.6" y="368.1" class="st2" width="12.1" height="29.8" id="svg_167"/>
+  <rect x="61.1" y="368.1" class="st2" width="12.8" height="29.8" id="svg_168"/>
+  <rect x="75.3" y="368.1" class="st2" width="12.8" height="29.8" id="svg_169"/>
+  <rect x="89.4" y="368.1" class="st2" width="12.8" height="29.8" id="svg_170"/>
+  <rect x="103.5" y="368.1" class="st2" width="12.8" height="29.8" id="svg_171"/>
+  <rect x="117.7" y="368.1" class="st2" width="12.8" height="29.8" id="svg_172"/>
+  <rect x="131.8" y="368.1" class="st2" width="12.8" height="29.8" id="svg_173"/>
+  <rect x="146" y="368.1" class="st2" width="12.8" height="29.8" id="svg_174"/>
+  <rect x="160.1" y="368.1" class="st2" width="12.8" height="29.8" id="svg_175"/>
+  <rect x="174.3" y="368.1" class="st2" width="12.8" height="29.8" id="svg_176"/>
+  <rect x="188.4" y="368.1" class="st2" width="27.5" height="29.8" id="svg_177"/>
+  <rect x="90.4" y="410.2" class="st2" width="26.6" height="20.9" id="svg_178"/>
+  <rect x="90.4" y="432.8" class="st2" width="26.6" height="18.3" id="svg_179"/>
+  <rect x="90.4" y="452.8" class="st2" width="26.6" height="14.4" id="svg_180"/>
+  <rect x="90.4" y="468.8" class="st2" width="26.6" height="18.3" id="svg_181"/>
+  <rect x="90.4" y="488.8" class="st2" width="26.6" height="21.2" id="svg_182"/>
+  <rect x="526.3" y="240" class="st4" width="12.4" height="11.1" id="svg_183"/>
+  <g id="Livello_2_1_">
+   <g id="Livello_2-2">
+    <polygon class="st5" points="48.5,158 48.5,20.5 2.5,20.5 2.5,201.10000610351562 42.5,201.10000610351562 48.5,201.10000610351562 88.39999389648438,201.10000610351562 88.39999389648438,158 " id="svg_184"/>
+    <rect x="132.1" y="30.6" class="st5" width="382.2" height="32.2" id="svg_185"/>
+    <polygon class="st5" points="602.2999877929688,408.79998779296875 501,408.79998779296875 501,462.0999755859375 501,495.79998779296875 501,507.9000244140625 173.70001220703125,507.9000244140625 173.70001220703125,550.5 501,550.5 533.4000244140625,550.5 558.5,550.5 558.5,495.79998779296875 602.2999877929688,495.79998779296875 " id="svg_186"/>
+    <rect x="216.5" y="368.3" class="st5" width="174.1" height="44.3" id="svg_187"/>
+    <rect x="45.2" y="398" class="st5" width="45.8" height="123.5" id="svg_188"/>
+   </g>
+  </g>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="93.299999" y="144.8" id="svg_189" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C4.1</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="69.299999" y="59.8" id="svg_191" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">L4.2</text>
+ </g>
 </svg>
