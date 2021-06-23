@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<script src="http://apps.bdimg.com/libs/jquery/1.6.4/jquery.min.js"></script>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+    <title>Counting Map of Bologna</title>
+</head>
+
+<body>
+    <h1>A Counting Map of Bologna</h1>
+    <button Type="button" onclick="click1()">Basement</button>
+    <button Type="button" onclick="click2()">Ground-Floor</button>
+    <br><br>
+    <button Type="button" onclick="click3()">First-Floor</button>
+    <button Type="button" onclick="click4()">Second-Floor</button>
+
+    <br><br>
+
+    <div id="desdiv">
+        <span>Please choose a floor.</span>
+    </div>
+
+    <script>
+        function click1() {
+
+            document.getElementById('desdiv').innerHTML = "<iframe src='childWebpage/Svg Map/basement.svg'" + "style='width: 100%;height: 1000px;'" + "></iframe>";
+        }
+    </script>
+
+    <script>
+        function click2() {
+            document.getElementById('desdiv').innerHTML = "<iframe src='childWebpage/Ground-floor.html'" + "style='width: 100%;height: 1000px;'" + "></iframe>";
+        }
+    </script>
+
+    <script>
+        function click3() {
+            document.getElementById('desdiv').innerHTML = "<iframe src='childWebpage/floor1.html'" + "style='width: 100%;height: 1000px;'" + "></iframe>";
+        }
+    </script>
+
+    <script>
+        function click4() {
+            document.getElementById('desdiv').innerHTML = "<iframe src='childWebpage/floor2.html'" + "style='width: 100%;height: 1000px;'" + "></iframe>";
+        }
+    </script>
+
+</body>
+
+</html>
