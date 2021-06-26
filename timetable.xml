@@ -1,0 +1,1550 @@
+<Orario>
+<Evento>
+<Descrizione>LEGISLAZIONE URBANISTICA E DELLE OO.PP.</Descrizione>
+<CodiceModulo>32709</CodiceModulo>
+<CodiceAttivita>32709</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="47230">Giammaria Muratori</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_4.1</Codice>
+<Descrizione>AULA 4.1</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Secondo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano secondo (livello 4)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>Chiani/Giorgetti - II LT Bio/Ele - Elaborazione dei segnali - esame per laureandi</Descrizione>
+<CodiceModulo> </CodiceModulo>
+<CodiceAttivita> </CodiceAttivita>
+<Cdl> </Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti/>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.6</Codice>
+<Descrizione>AULA 2.6</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ALGEBRA E ANALISI NUMERICA LM</Descrizione>
+<CodiceModulo>72548</CodiceModulo>
+<CodiceAttivita>72548</CodiceAttivita>
+<Cdl>9243</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="31762">Serena Morigi</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.3</Codice>
+<Descrizione>LABORATORIO 3.3</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>TELECOMUNICAZIONI LM (C.I.) - RETI DI TELECOMUNICAZIONI LM</Descrizione>
+<CodiceModulo>34980</CodiceModulo>
+<CodiceAttivita>34980</CodiceAttivita>
+<Cdl>8770</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="30946">Franco Callegati</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.13</Codice>
+<Descrizione>AULA 2.13</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>COMPORTAMENTO MECCANICO DEI MATERIALI E BIOMATERIALI (C.I.) - COMPORTAMENTO MECCANICO DEI MATERIALI</Descrizione>
+<CodiceModulo>30596</CodiceModulo>
+<CodiceAttivita>30596</CodiceAttivita>
+<Cdl>0946</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="31014">Luca Cristofolini</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.1</Codice>
+<Descrizione>AULA 2.1</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano Terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>SISTEMI NEURALI LM</Descrizione>
+<CodiceModulo>34814</CodiceModulo>
+<CodiceAttivita>34814</CodiceAttivita>
+<Cdl>8198</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="30682">Mauro Ursino</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.8</Codice>
+<Descrizione>AULA 2.8</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ANALISI NUMERICA LM</Descrizione>
+<CodiceModulo>34794</CodiceModulo>
+<CodiceAttivita>34794</CodiceAttivita>
+<Cdl>8770</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="31762">Serena Morigi</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.3</Codice>
+<Descrizione>LABORATORIO 3.3</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>VISIONE ARTIFICIALE E RICONOSCIMENTO</Descrizione>
+<CodiceModulo>29443</CodiceModulo>
+<CodiceAttivita>29443</CodiceAttivita>
+<Cdl>8614</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="39884">Annalisa Franco</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.10</Codice>
+<Descrizione>AULA 2.10</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>Lezione di Lingua Inglese B-2 - Architettura</Descrizione>
+<CodiceModulo> </CodiceModulo>
+<CodiceAttivita> </CodiceAttivita>
+<Cdl> </Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti/>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.3</Codice>
+<Descrizione>AULA 2.3</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>GEOMETRIA E ALGEBRA</Descrizione>
+<CodiceModulo>09757</CodiceModulo>
+<CodiceAttivita>09757</CodiceAttivita>
+<Cdl>8767</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="30913">Michele Mulazzani</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.12</Codice>
+<Descrizione>AULA 2.12</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>Commissione QA ISI</Descrizione>
+<CodiceModulo> </CodiceModulo>
+<CodiceAttivita> </CodiceAttivita>
+<Cdl> </Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti/>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.5</Codice>
+<Descrizione>AULA 2.5</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ISTITUZIONI DI MATEMATICHE II -</Descrizione>
+<CodiceModulo>70463</CodiceModulo>
+<CodiceAttivita>70463</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="39872">Marco Lenci</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.11</Codice>
+<Descrizione>AULA 3.11</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>LEGISLAZIONE URBANISTICA E DELLE OO.PP.</Descrizione>
+<CodiceModulo>32709</CodiceModulo>
+<CodiceAttivita>32709</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="37573">Cristina Gandolfi</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_4.1</Codice>
+<Descrizione>AULA 4.1</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Secondo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano secondo (livello 4)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>INSTRADAMENTO E TRASPORTO IN INTERNET</Descrizione>
+<CodiceModulo>72521</CodiceModulo>
+<CodiceAttivita>72521</CodiceAttivita>
+<Cdl>8614</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="30946">Franco Callegati</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.13</Codice>
+<Descrizione>AULA 2.13</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>PRINCIPI FISICI PER IL MONITORAGGIO ENERGETICO E AMBIENTALE</Descrizione>
+<CodiceModulo>72584</CodiceModulo>
+<CodiceAttivita>72584</CodiceAttivita>
+<Cdl>8767</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="36663">Massimo Andretta</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.11</Codice>
+<Descrizione>AULA 2.11</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>GEOMETRIA E ALGEBRA</Descrizione>
+<CodiceModulo>09757</CodiceModulo>
+<CodiceAttivita>09757</CodiceAttivita>
+<Cdl>0946</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>11:00</OraFine>
+<Docenti>
+<Docente Matricola="30913">Michele Mulazzani</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.12</Codice>
+<Descrizione>AULA 2.12</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>MATEMATICA DISCRETA E PROBABILITÀ</Descrizione>
+<CodiceModulo>77776</CodiceModulo>
+<CodiceAttivita>77776</CodiceAttivita>
+<Cdl>8615</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>12:00</OraFine>
+<Docenti>
+<Docente Matricola="39857">Fabrizio Caselli</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.7</Codice>
+<Descrizione>AULA 3.7</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>PROGETTAZIONE ESECUTIVA DELL'ARCHITETTURA PER L'EFFICIENZA ENERGETICA (C.I.) - FISICA TECNICA AMBIENTALE II</Descrizione>
+<CodiceModulo>70207</CodiceModulo>
+<CodiceAttivita>70207</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="34842">Kristian Fabbri</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.10</Codice>
+<Descrizione>AULA 3.10</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>Laboratorio di Laurea: Maximum city - minimum dwelling - Prof.ssa Manferdini</Descrizione>
+<CodiceModulo> </CodiceModulo>
+<CodiceAttivita> </CodiceAttivita>
+<Cdl> </Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti/>
+<Aule>
+<Aula>
+<Codice>EXZUCC_4.2</Codice>
+<Descrizione>LABORATORIO 4.2</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Secondo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano secondo (livello 4)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>PROGETTAZIONE ESECUTIVA DELL'ARCHITETTURA PER L'EFFICIENZA ENERGETICA (C.I.) - PROGETTAZIONE ESECUTIVA DELL'ARCHITETTURA</Descrizione>
+<CodiceModulo>70207</CodiceModulo>
+<CodiceAttivita>70207</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="38544">Stefano Piraccini</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.10</Codice>
+<Descrizione>AULA 3.10</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>TECNOLOGIE WEB</Descrizione>
+<CodiceModulo>41731</CodiceModulo>
+<CodiceAttivita>41731</CodiceAttivita>
+<Cdl>8615</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>09:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="30947">Paola Salomoni</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.2</Codice>
+<Descrizione>LABORATORIO 2.2</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+<Aula>
+<Codice>EXZUCC_2.9</Codice>
+<Descrizione>AULA 2.9</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ALGEBRA E ANALISI NUMERICA LM</Descrizione>
+<CodiceModulo>72548</CodiceModulo>
+<CodiceAttivita>72548</CodiceAttivita>
+<Cdl>9243</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="31762">Serena Morigi</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.7</Codice>
+<Descrizione>AULA 2.7</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>FISICA GENERALE (C.I.) - FISICA GENERALE A</Descrizione>
+<CodiceModulo>30375</CodiceModulo>
+<CodiceAttivita>30375</CodiceAttivita>
+<Cdl>8767</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="39117">Alessandra Fanfani</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.12</Codice>
+<Descrizione>AULA 2.12</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>STORIA DELL'ARCHITETTURA 1 -</Descrizione>
+<CodiceModulo>70461</CodiceModulo>
+<CodiceAttivita>70461</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="31647">Francesco Ceccarelli</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.3</Codice>
+<Descrizione>AULA 2.3</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>CAMPI ELETTROMAGNETICI</Descrizione>
+<CodiceModulo>07941</CodiceModulo>
+<CodiceAttivita>07941</CodiceAttivita>
+<Cdl>8767</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="30774">Vittorio Degli Esposti</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.11</Codice>
+<Descrizione>AULA 2.11</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>STORIA DELL'ARCHITETTURA 1 -</Descrizione>
+<CodiceModulo>70461</CodiceModulo>
+<CodiceAttivita>70461</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="49677">Daniele Pascale Guidotti Magnani</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.3</Codice>
+<Descrizione>AULA 2.3</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>PROGRAMMAZIONE - A-L (A-L)</Descrizione>
+<CodiceModulo>00819</CodiceModulo>
+<CodiceAttivita>00819</CodiceAttivita>
+<Cdl>8615</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="33312">Antonella Carbonaro</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.6</Codice>
+<Descrizione>AULA 2.6</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>SMART CITY E TECNOLOGIE MOBILI</Descrizione>
+<CodiceModulo>72529</CodiceModulo>
+<CodiceAttivita>72529</CodiceAttivita>
+<Cdl>8614</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="15624">Dario Maio</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.10</Codice>
+<Descrizione>AULA 2.10</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>STRUMENTAZIONE BIOMEDICA E INGEGNERIA CLINICA (C.I.) - STRUMENTAZIONE BIOMEDICA</Descrizione>
+<CodiceModulo>30599</CodiceModulo>
+<CodiceAttivita>30599</CodiceAttivita>
+<Cdl>0946</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="42905">Cristiano Cuppini</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.1</Codice>
+<Descrizione>AULA 2.1</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano Terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>STORIA DELL'ARCHITETTURA 2 -</Descrizione>
+<CodiceModulo>70464</CodiceModulo>
+<CodiceAttivita>70464</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="82338">Silvia Berselli</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.11</Codice>
+<Descrizione>AULA 3.11</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ILLUMINOTECNICA E ACUSTICA</Descrizione>
+<CodiceModulo>42969</CodiceModulo>
+<CodiceAttivita>42969</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="14360">Valerio Tarabusi</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.5</Codice>
+<Descrizione>AULA 2.5</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>MATEMATICA APPLICATA ALL'ARCHITETTURA -</Descrizione>
+<CodiceModulo>70467</CodiceModulo>
+<CodiceAttivita>70467</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="43781">Nicoletta Cantarini</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_4.1</Codice>
+<Descrizione>AULA 4.1</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Secondo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano secondo (livello 4)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>PROGRAMMAZIONE - M-Z (M-Z)</Descrizione>
+<CodiceModulo>00819</CodiceModulo>
+<CodiceAttivita>00819</CodiceAttivita>
+<Cdl>8615</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="40940">Pietro Di Lena</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.4</Codice>
+<Descrizione>AULA 2.4</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ANALISI NUMERICA LM</Descrizione>
+<CodiceModulo>34794</CodiceModulo>
+<CodiceAttivita>34794</CodiceAttivita>
+<Cdl>8770</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="31762">Serena Morigi</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.7</Codice>
+<Descrizione>AULA 2.7</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ILLUMINOTECNICA E ACUSTICA</Descrizione>
+<CodiceModulo>42969</CodiceModulo>
+<CodiceAttivita>42969</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="32324">Lamberto Tronchin</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.5</Codice>
+<Descrizione>AULA 2.5</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>FISICA GENERALE (C.I.) - FISICA GENERALE A</Descrizione>
+<CodiceModulo>30375</CodiceModulo>
+<CodiceAttivita>30375</CodiceAttivita>
+<Cdl>0946</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="39117">Alessandra Fanfani</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.12</Codice>
+<Descrizione>AULA 2.12</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>MACHINE LEARNING</Descrizione>
+<CodiceModulo>81610</CodiceModulo>
+<CodiceAttivita>81610</CodiceAttivita>
+<Cdl>8614</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="31756">Davide Maltoni</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.1</Codice>
+<Descrizione>LABORATORIO 3.1</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>Ursino - II LM BIO - Sistemi Neurali </Descrizione>
+<CodiceModulo> </CodiceModulo>
+<CodiceAttivita> </CodiceAttivita>
+<Cdl> </Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>14:00</OraFine>
+<Docenti/>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.8</Codice>
+<Descrizione>AULA 2.8</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>Chiani/Giorgetti - II LT Bio/Ele - Elaborazione dei segnali - esame per laureandi</Descrizione>
+<CodiceModulo> </CodiceModulo>
+<CodiceAttivita> </CodiceAttivita>
+<Cdl> </Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>11:00</OraInizio>
+<OraFine>14:00</OraFine>
+<Docenti/>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.2</Codice>
+<Descrizione>LABORATORIO 3.2</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>SENSORI E NANOTECNOLOGIE LM</Descrizione>
+<CodiceModulo>65591</CodiceModulo>
+<CodiceAttivita>65591</CodiceAttivita>
+<Cdl>8198</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>12:00</OraInizio>
+<OraFine>13:00</OraFine>
+<Docenti>
+<Docente Matricola="30933">Marco Tartagni</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.13</Codice>
+<Descrizione>AULA 2.13</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>SENSORI E NANOTECNOLOGIE LM</Descrizione>
+<CodiceModulo>65591</CodiceModulo>
+<CodiceAttivita>65591</CodiceAttivita>
+<Cdl>8198</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>13:00</OraInizio>
+<OraFine>15:00</OraFine>
+<Docenti>
+<Docente Matricola="30933">Marco Tartagni</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.13</Codice>
+<Descrizione>AULA 2.13</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>SISTEMI ELETTRONICI E SENSORI LM (C.I.) - SENSORI E ATTUATORI LM</Descrizione>
+<CodiceModulo>34985</CodiceModulo>
+<CodiceAttivita>34985</CodiceAttivita>
+<Cdl>8770</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>13:00</OraInizio>
+<OraFine>15:00</OraFine>
+<Docenti>
+<Docente Matricola="30933">Marco Tartagni</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.13</Codice>
+<Descrizione>AULA 2.13</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>PROGRAMMAZIONE AD OGGETTI</Descrizione>
+<CodiceModulo>70219</CodiceModulo>
+<CodiceAttivita>70219</CodiceAttivita>
+<Cdl>8615</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>13:00</OraInizio>
+<OraFine>16:00</OraFine>
+<Docenti>
+<Docente Matricola="35642">Mirko Viroli</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.7</Codice>
+<Descrizione>AULA 3.7</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ELETTRONICA</Descrizione>
+<CodiceModulo>00269</CodiceModulo>
+<CodiceAttivita>00269</CodiceAttivita>
+<Cdl>8767</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>13:00</OraInizio>
+<OraFine>16:00</OraFine>
+<Docenti>
+<Docente Matricola="38093">Claudio Fiegna</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.12</Codice>
+<Descrizione>AULA 2.12</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ELETTRONICA</Descrizione>
+<CodiceModulo>00269</CodiceModulo>
+<CodiceAttivita>00269</CodiceAttivita>
+<Cdl>0946</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>13:00</OraInizio>
+<OraFine>16:00</OraFine>
+<Docenti>
+<Docente Matricola="38093">Claudio Fiegna</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.12</Codice>
+<Descrizione>AULA 2.12</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>MATEMATICA</Descrizione>
+<CodiceModulo>00674</CodiceModulo>
+<CodiceAttivita>00674</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>16:00</OraFine>
+<Docenti>
+<Docente Matricola="39872">Marco Lenci</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.3</Codice>
+<Descrizione>AULA 2.3</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>Diciotti - ELABORAZIONE DI DATI E SEGNALI BIOMEDICI LM - I LM BIO - scritto</Descrizione>
+<CodiceModulo> </CodiceModulo>
+<CodiceAttivita> </CodiceAttivita>
+<Cdl> </Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>16:00</OraFine>
+<Docenti/>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.1</Codice>
+<Descrizione>AULA 2.1</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano Terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>STORIA DELL'ARCHITETTURA 2 -</Descrizione>
+<CodiceModulo>70464</CodiceModulo>
+<CodiceAttivita>70464</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>16:00</OraFine>
+<Docenti>
+<Docente Matricola="82338">Silvia Berselli</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.11</Codice>
+<Descrizione>AULA 3.11</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ANALISI MATEMATICA</Descrizione>
+<CodiceModulo>00013</CodiceModulo>
+<CodiceAttivita>00013</CodiceAttivita>
+<Cdl>8615</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="40877">Eleonora Cinti</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.9</Codice>
+<Descrizione>AULA 2.9</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ILLUMINOTECNICA E ACUSTICA</Descrizione>
+<CodiceModulo>42969</CodiceModulo>
+<CodiceAttivita>42969</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="32324">Lamberto Tronchin</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.5</Codice>
+<Descrizione>AULA 2.5</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>SCIENZA DELLE COSTRUZIONI -</Descrizione>
+<CodiceModulo>26371</CodiceModulo>
+<CodiceAttivita>26371</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="39268">Veronica Bartolomeo</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.10</Codice>
+<Descrizione>AULA 3.10</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>SISTEMI DI SUPPORTO ALLE DECISIONI</Descrizione>
+<CodiceModulo>74972</CodiceModulo>
+<CodiceAttivita>74972</CodiceAttivita>
+<Cdl>8614</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="30927">Vittorio Maniezzo</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.6</Codice>
+<Descrizione>AULA 2.6</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ILLUMINOTECNICA E ACUSTICA</Descrizione>
+<CodiceModulo>42969</CodiceModulo>
+<CodiceAttivita>42969</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="14360">Valerio Tarabusi</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.5</Codice>
+<Descrizione>AULA 2.5</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>LABORATORIO DI SISTEMI SOFTWARE</Descrizione>
+<CodiceModulo>81614</CodiceModulo>
+<CodiceAttivita>81614</CodiceAttivita>
+<Cdl>8614</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="15250">Antonio Natali</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.10</Codice>
+<Descrizione>AULA 2.10</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+<Aula>
+<Codice>EXZUCC_3.1</Codice>
+<Descrizione>LABORATORIO 3.1</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>SISTEMI DISTRIBUITI</Descrizione>
+<CodiceModulo>58260</CodiceModulo>
+<CodiceAttivita>58260</CodiceAttivita>
+<Cdl>8614</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="30726">Andrea Omicini</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.4</Codice>
+<Descrizione>AULA 2.4</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>LABORATORIO DI DISPOSITIVI E IMPIANTI FOTOVOLTAICI</Descrizione>
+<CodiceModulo>69776</CodiceModulo>
+<CodiceAttivita>69776</CodiceAttivita>
+<Cdl>8767</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="40316">Mauro Zanuccoli</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.11</Codice>
+<Descrizione>AULA 2.11</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+<Aula>
+<Codice>EXZUCC_3.2</Codice>
+<Descrizione>LABORATORIO 3.2</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ANALISI MATEMATICA</Descrizione>
+<CodiceModulo>00013</CodiceModulo>
+<CodiceAttivita>00013</CodiceAttivita>
+<Cdl>8615</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="31761">Daniele Morbidelli</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.9</Codice>
+<Descrizione>AULA 2.9</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>BIOMECCANICA LM</Descrizione>
+<CodiceModulo>34803</CodiceModulo>
+<CodiceAttivita>34803</CodiceAttivita>
+<Cdl>9243</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="38066">Rita Stagni</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.3</Codice>
+<Descrizione>LABORATORIO 3.3</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>FONDAMENTI DI CHIMICA</Descrizione>
+<CodiceModulo>15750</CodiceModulo>
+<CodiceAttivita>15750</CodiceAttivita>
+<Cdl>8767</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="30943">Nadia Lotti</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.8</Codice>
+<Descrizione>AULA 2.8</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>SCIENZA DELLE COSTRUZIONI -</Descrizione>
+<CodiceModulo>26371</CodiceModulo>
+<CodiceAttivita>26371</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti>
+<Docente Matricola="34568">Luisa Molari</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.10</Codice>
+<Descrizione>AULA 3.10</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>SISTEMI EMBEDDED E INTERNET-OF-THINGS</Descrizione>
+<CodiceModulo>77780</CodiceModulo>
+<CodiceAttivita>77780</CodiceAttivita>
+<Cdl>8615</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>18:00</OraFine>
+<Docenti>
+<Docente Matricola="36525">Alessandro Ricci</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.2</Codice>
+<Descrizione>LABORATORIO 2.2</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>Ursino - II LM BIO - Sistemi Neurali </Descrizione>
+<CodiceModulo> </CodiceModulo>
+<CodiceAttivita> </CodiceAttivita>
+<Cdl> </Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>14:00</OraInizio>
+<OraFine>18:00</OraFine>
+<Docenti/>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.7</Codice>
+<Descrizione>AULA 2.7</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>Allestimento e Museografia - Prof. Poletti - V ARCH. </Descrizione>
+<CodiceModulo> </CodiceModulo>
+<CodiceAttivita> </CodiceAttivita>
+<Cdl> </Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>15:00</OraInizio>
+<OraFine>17:00</OraFine>
+<Docenti/>
+<Aule>
+<Aula>
+<Codice>EXZUCC_4.1</Codice>
+<Descrizione>AULA 4.1</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Secondo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano secondo (livello 4)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>SISTEMI DI TELECOMUNICAZIONI LM</Descrizione>
+<CodiceModulo>35114</CodiceModulo>
+<CodiceAttivita>35114</CodiceAttivita>
+<Cdl>8770</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>15:00</OraInizio>
+<OraFine>18:00</OraFine>
+<Docenti>
+<Docente Matricola="32062">Davide Dardari</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.13</Codice>
+<Descrizione>AULA 2.13</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>RETI WIRELESS LM (C.I.) - SISTEMI DI TELECOMUNICAZIONI LM</Descrizione>
+<CodiceModulo>35518</CodiceModulo>
+<CodiceAttivita>35518</CodiceAttivita>
+<Cdl>8770</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>15:00</OraInizio>
+<OraFine>18:00</OraFine>
+<Docenti>
+<Docente Matricola="32062">Davide Dardari</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.13</Codice>
+<Descrizione>AULA 2.13</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ELETTROTECNICA</Descrizione>
+<CodiceModulo>06793</CodiceModulo>
+<CodiceAttivita>06793</CodiceAttivita>
+<Cdl>8767</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>16:00</OraInizio>
+<OraFine>18:00</OraFine>
+<Docenti>
+<Docente Matricola="16818">Franco Mastri</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.12</Codice>
+<Descrizione>AULA 2.12</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>LEGISLAZIONE URBANISTICA E DELLE OO.PP.</Descrizione>
+<CodiceModulo>32709</CodiceModulo>
+<CodiceAttivita>32709</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>16:00</OraInizio>
+<OraFine>18:00</OraFine>
+<Docenti>
+<Docente Matricola="47230">Giammaria Muratori</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.7</Codice>
+<Descrizione>AULA 3.7</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ISTITUZIONI DI MATEMATICHE II -</Descrizione>
+<CodiceModulo>70463</CodiceModulo>
+<CodiceAttivita>70463</CodiceAttivita>
+<Cdl>0881</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>16:00</OraInizio>
+<OraFine>18:00</OraFine>
+<Docenti>
+<Docente Matricola="39872">Marco Lenci</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.11</Codice>
+<Descrizione>AULA 3.11</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>Esercitazioni Scienza delle Costruzioni - Prof.ssa Molari</Descrizione>
+<CodiceModulo> </CodiceModulo>
+<CodiceAttivita> </CodiceAttivita>
+<Cdl> </Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>16:00</OraInizio>
+<OraFine>18:00</OraFine>
+<Docenti/>
+<Aule>
+<Aula>
+<Codice>EXZUCC_3.5</Codice>
+<Descrizione>LABORATORIO 3.5</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+<Aula>
+<Codice>EXZUCC_3.6</Codice>
+<Descrizione>LABORATORIO 3.6</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Primo</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano primo (livello 3)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+<Evento>
+<Descrizione>ELETTROTECNICA</Descrizione>
+<CodiceModulo>06793</CodiceModulo>
+<CodiceAttivita>06793</CodiceAttivita>
+<Cdl>0946</Cdl>
+<RisorsaMobile> </RisorsaMobile>
+<Data>14/11/2018</Data>
+<OraInizio>16:00</OraInizio>
+<OraFine>18:00</OraFine>
+<Docenti>
+<Docente Matricola="16818">Franco Mastri</Docente>
+</Docenti>
+<Aule>
+<Aula>
+<Codice>EXZUCC_2.12</Codice>
+<Descrizione>AULA 2.12</Descrizione>
+<Edificio Codice="EST_EXZUCC1">Ex-Zuccherificio – Edificio 1</Edificio>
+<Piano>Piano Terra</Piano>
+<Ubicazione>Via Dell'Università 50, Cesena, Piano terra (livello 2)</Ubicazione>
+</Aula>
+</Aule>
+</Evento>
+</Orario>
